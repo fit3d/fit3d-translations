@@ -246,6 +246,26 @@
     "turntableMsg": "Error connecting to turntable, please power cycle the ProScanner.",
     "userDetails": "Buttons were released before the scan was complete."
   },
+  "cameraStatus": {
+    "prepCamera": "Preparing Camera...",
+    "resetScanner": "Scanner Resetting...",
+    "readyToScan": "Ready To Scan",
+    "cameraDisconnected": "Camera Disconnected",
+    "scanning": "Scanning"
+  },
+  "hidStatus": {
+    "refresh": "Refresh",
+    "settings": "Settings",
+    "status": "Status",
+    "connected": "Connected",
+    "detected": "Detected",
+    "searching": "Searching"
+  },
+  "settings": {
+    "returnHome": "Return Home",
+    "returnRegistration": "Return to Registration",
+    "diagnosticsBtn": "Run Diagnostics"
+  },
   "btn": {
     "nexBtn": "Next",
     "submitBtn": "Submit",
