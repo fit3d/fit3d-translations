@@ -143,7 +143,40 @@
     "confirmRealEmail": "Confirm E-mail",
     "password": "Password (8+ characters)",
     "confirmPassword": "Confirm password",
-    "birthDate": "Date of Birth"
+    "birthDate": "Date of Birth",
+    "gender": {
+      "title": "Gender",
+      "male": "Male",
+      "female": "Female"
+    },
+    "unitSystemType": {
+      "title": "Unit Type",
+      "metric": "Metric"
+    },
+    "ethnicity": {
+      "title": "Ethnicity",
+      "unspecified": "Unspecified",
+      "hispanic": "Hispanic/Latino",
+      "native": "American Indian or Alaska Native",
+      "africanAmerican": "Black or African American",
+      "island": "Native Hawaiian or Other Pacific Islander",
+      "caucasian": "Caucasian"
+    },
+    "month": {
+      "title": "Month",
+      "january": "January",
+      "february": "February",
+      "march": "March",
+      "april": "April",
+      "may": "May",
+      "june": "June",
+      "july": "July",
+      "august": "August",
+      "september": "September",
+      "october": "October",
+      "november": "November",
+      "december": "December"
+    }
   },
   "signUpErrors": {
     "firstName": "First name required",
