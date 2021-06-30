@@ -90,6 +90,9 @@
     "error404": "Registration failed: Invalid Activation Code--please try again.",
     "error409": "Registration failed: Scanner has already been registered."
   },
+  "terms": {
+    "accepted": "I have read and accepted Fit3D's"
+  },
   "signIn": {
     "title": "Sign In to Scan",
     "forgotPasswordLink": "Forgot password?",
@@ -137,7 +140,7 @@
     "firstName": "First Name",
     "lastName": "Last Name",
     "realEmail": "E-mail",
-    "confirmRealEmail": "Confirm Email",
+    "confirmRealEmail": "Confirm E-mail",
     "password": "Password (8+ characters)",
     "confirmPassword": "Confirm password",
     "birthDate": "Date of Birth"
@@ -162,6 +165,11 @@
     "terms": "- Please accept the Terms Agreement to continue",
     "privacy": "- Please accept Fit3D's privacy policy to continue",
     "waiver": "- Please read and accept the Liability Waiver to continue"
+  },
+  "redirect": {
+    "home": "Return Home",
+    "login": "Back to Login",
+    "signup": "Back to Signup"
   },
   "overview": {
     "hairTitle": "Please put hair up",
@@ -273,6 +281,17 @@
     "returnRegistration": "Return to Registration",
     "diagnosticsBtn": "Run Diagnostics",
     "hidMsg": "Send HID Message"
+  },
+  "updater": {
+    "title": "Update Available",
+    "subtitle": "A new version is available for the Fit3D ProScanner app. Would you like to update?",
+    "updateBtn": "Update Now",
+    "cancelBtn": "Update Later"
+  },
+  "appQuit": {
+    "closeBtn": "Close",
+    "title": "Would you like to close app?",
+    "confirmBtn": "Close App"
   },
   "btn": {
     "nexBtn": "Next",
