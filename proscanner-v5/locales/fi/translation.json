@@ -76,7 +76,8 @@
         "weightScaleDesc2": "Jos painovaste ei ole, irrota skannerin virta ja kytke se takaisin.",
         "completeBtn": "Viimeistele ja sulje diagnostiikka",
         "cancelBtn": "Peruuta diagnostiikka",
-        "advBtn": "Edistynyt diagnostiikka"
+        "advBtn": "Edistynyt diagnostiikka",
+        "calibrateBtn": "Kalibroida"
     },
     "registration": {
         "title": "Rekisteröi Proscanner",
@@ -248,7 +249,8 @@
         "scanStartDetails": "Skannaus epäonnistui. Irrota USB ja kytke se takaisin ja napsauta sitten Yritä skannata uudelleen.",
         "serviceDetails": "Skannaus epäonnistui. Käynnistä tabletti uudelleen ja yritä uudelleen.",
         "turntableMsg": "Virhe yhdistettäessä levysoittimeen, käynnistä ProScanner uudelleen.",
-        "userDetails": "Painikkeet vapautettiin ennen skannauksen päättymistä."
+        "userDetails": "Painikkeet vapautettiin ennen skannauksen päättymistä.",
+        "title": "Tapahtui virhe"
     },
     "cameraStatus": {
         "prepCamera": "Valmistellaan kameraa ...",
@@ -268,7 +270,8 @@
     "settings": {
         "returnHome": "Palata kotiin",
         "returnRegistration": "Palaa rekisteröintiin",
-        "diagnosticsBtn": "Suorita diagnostiikka"
+        "diagnosticsBtn": "Suorita diagnostiikka",
+        "hidMsg": "Lähetä HID-viesti"
     },
     "btn": {
         "nexBtn": "Seuraava",
@@ -276,5 +279,10 @@
         "skipBtn": "Ohita",
         "signOutBtn": "Kirjaudu ulos",
         "cancelBtn": "Peruuttaa"
+    },
+    "status": {
+        "fail": "Epäonnistui!",
+        "checking": "Tarkistetaan ...",
+        "success": "Menestys!"
     }
 }

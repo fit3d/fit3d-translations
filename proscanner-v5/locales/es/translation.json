@@ -76,7 +76,8 @@
         "weightScaleDesc2": "Si no hay respuesta de peso, desenchufe el escáner y vuelva a enchufarlo.",
         "completeBtn": "Finalizar y cerrar diagnósticos",
         "cancelBtn": "Cancelar diagnósticos",
-        "advBtn": "Diagnósticos avanzados"
+        "advBtn": "Diagnósticos avanzados",
+        "calibrateBtn": "Calibrar"
     },
     "registration": {
         "title": "Registrar Proscanner",
@@ -248,7 +249,8 @@
         "scanStartDetails": "No se pudo iniciar el escaneo. Desenchufe y vuelva a conectar el USB, luego haga clic en \"Reintentar escaneo\".",
         "serviceDetails": "No se pudo iniciar el escaneo. Reinicie su tableta y vuelva a intentarlo.",
         "turntableMsg": "Error al conectar el tocadiscos, apague y vuelva a encender el ProScanner.",
-        "userDetails": "Los botones se soltaron antes de que se completara el escaneo."
+        "userDetails": "Los botones se soltaron antes de que se completara el escaneo.",
+        "title": "Se ha producido un error"
     },
     "cameraStatus": {
         "prepCamera": "Preparando la cámara ...",
@@ -268,7 +270,8 @@
     "settings": {
         "returnHome": "Volver a casa",
         "returnRegistration": "Regresar al Registro",
-        "diagnosticsBtn": "Ejecutar diagnósticos"
+        "diagnosticsBtn": "Ejecutar diagnósticos",
+        "hidMsg": "Enviar mensaje HID"
     },
     "btn": {
         "nexBtn": "próximo",
@@ -276,5 +279,10 @@
         "skipBtn": "Saltar",
         "signOutBtn": "Desconectar",
         "cancelBtn": "Cancelar"
+    },
+    "status": {
+        "fail": "¡Ha fallado!",
+        "checking": "Comprobación...",
+        "success": "¡Éxito!"
     }
 }

@@ -76,7 +76,8 @@
         "weightScaleDesc2": "Om det inte finns något viktrespons, koppla ur strömmen till skannern och anslut den igen.",
         "completeBtn": "Slutför och stäng diagnostik",
         "cancelBtn": "Avbryt diagnostik",
-        "advBtn": "Avancerad diagnostik"
+        "advBtn": "Avancerad diagnostik",
+        "calibrateBtn": "Kalibrera"
     },
     "registration": {
         "title": "Registrera Proscanner",
@@ -248,7 +249,8 @@
         "scanStartDetails": "Skanningen kunde inte startas. Koppla ur och anslut USB och klicka sedan på \"Försök igen.\"",
         "serviceDetails": "Skanningen kunde inte startas. Starta om din surfplatta och försök igen.",
         "turntableMsg": "Fel vid anslutning till skivspelare, vänligen starta ProScanner.",
-        "userDetails": "Knappar släpptes innan skanningen var klar."
+        "userDetails": "Knappar släpptes innan skanningen var klar.",
+        "title": "Ett fel har uppstått"
     },
     "cameraStatus": {
         "prepCamera": "Förbereder kameran ...",
@@ -268,7 +270,8 @@
     "settings": {
         "returnHome": "Återvända hem",
         "returnRegistration": "Återgå till registrering",
-        "diagnosticsBtn": "Kör diagnostik"
+        "diagnosticsBtn": "Kör diagnostik",
+        "hidMsg": "Skicka HID-meddelande"
     },
     "btn": {
         "nexBtn": "Nästa",
@@ -276,5 +279,10 @@
         "skipBtn": "Hoppa",
         "signOutBtn": "Logga ut",
         "cancelBtn": "Avbryt"
+    },
+    "status": {
+        "fail": "Misslyckades!",
+        "checking": "Kontroll...",
+        "success": "Framgång!"
     }
 }

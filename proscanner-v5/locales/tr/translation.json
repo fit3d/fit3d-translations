@@ -76,7 +76,8 @@
         "weightScaleDesc2": "Ağırlık tepkisi yoksa, tarayıcının gücünü kesin ve tekrar takın.",
         "completeBtn": "Teşhisi Bitir ve Kapat",
         "cancelBtn": "Teşhisi İptal Et",
-        "advBtn": "Gelişmiş Teşhis"
+        "advBtn": "Gelişmiş Teşhis",
+        "calibrateBtn": "kalibre et"
     },
     "registration": {
         "title": "Proscanner'ı Kaydolun",
@@ -248,7 +249,8 @@
         "scanStartDetails": "Tarama başlatılamadı. Lütfen USB'yi çıkarıp yeniden takın, ardından \"Taramayı Yeniden Dene\"yi tıklayın.",
         "serviceDetails": "Tarama başlatılamadı. Lütfen tabletinizi yeniden başlatın ve tekrar deneyin.",
         "turntableMsg": "Döner tablaya bağlanırken hata oluştu, lütfen ProScanner'ı kapatıp açın.",
-        "userDetails": "Tarama tamamlanmadan önce düğmeler serbest bırakıldı."
+        "userDetails": "Tarama tamamlanmadan önce düğmeler serbest bırakıldı.",
+        "title": "Bir hata oluştu"
     },
     "cameraStatus": {
         "prepCamera": "Kamera Hazırlanıyor...",
@@ -268,7 +270,8 @@
     "settings": {
         "returnHome": "Eve dön",
         "returnRegistration": "Kayda Dön",
-        "diagnosticsBtn": "Tanılamayı Çalıştır"
+        "diagnosticsBtn": "Tanılamayı Çalıştır",
+        "hidMsg": "HID Mesajı Gönder"
     },
     "btn": {
         "nexBtn": "Sonraki",
@@ -276,5 +279,10 @@
         "skipBtn": "atla",
         "signOutBtn": "Oturumu Kapat",
         "cancelBtn": "İptal etmek"
+    },
+    "status": {
+        "fail": "Başarısız oldu!",
+        "checking": "Kontrol etme...",
+        "success": "Başarı!"
     }
 }

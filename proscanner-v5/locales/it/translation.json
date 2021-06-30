@@ -76,7 +76,8 @@
         "weightScaleDesc2": "Se non c'è risposta al peso, scollegare l'alimentazione per lo scanner e ricollegarla.",
         "completeBtn": "Termina e chiudi la diagnostica",
         "cancelBtn": "Annulla diagnostica",
-        "advBtn": "Diagnostica avanzata"
+        "advBtn": "Diagnostica avanzata",
+        "calibrateBtn": "Calibrare"
     },
     "registration": {
         "title": "Registrati Proscanner",
@@ -248,7 +249,8 @@
         "scanStartDetails": "Impossibile avviare la scansione. Scollegare e ricollegare l'USB, quindi fare clic su \"Riprova scansione\".",
         "serviceDetails": "Impossibile avviare la scansione. Riavvia il tablet e riprova.",
         "turntableMsg": "Errore durante la connessione al giradischi, spegnere e riaccendere il ProScanner.",
-        "userDetails": "I pulsanti sono stati rilasciati prima che la scansione fosse completata."
+        "userDetails": "I pulsanti sono stati rilasciati prima che la scansione fosse completata.",
+        "title": "C'è stato un errore"
     },
     "cameraStatus": {
         "prepCamera": "Preparazione della fotocamera...",
@@ -268,7 +270,8 @@
     "settings": {
         "returnHome": "Torna a casa",
         "returnRegistration": "Torna alla registrazione",
-        "diagnosticsBtn": "Esegui diagnostica"
+        "diagnosticsBtn": "Esegui diagnostica",
+        "hidMsg": "Invia messaggio HID"
     },
     "btn": {
         "nexBtn": "Il prossimo",
@@ -276,5 +279,10 @@
         "skipBtn": "Salta",
         "signOutBtn": "Disconnessione",
         "cancelBtn": "Annulla"
+    },
+    "status": {
+        "fail": "fallito!",
+        "checking": "Controllo in corso...",
+        "success": "Successo!"
     }
 }

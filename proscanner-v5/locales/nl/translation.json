@@ -76,7 +76,8 @@
         "weightScaleDesc2": "Als er geen gewichtsrespons is, haalt u de stekker van de scanner uit het stopcontact en steekt u de stekker er weer in.",
         "completeBtn": "Diagnose voltooien en sluiten Diagnostic",
         "cancelBtn": "Diagnose annuleren",
-        "advBtn": "Geavanceerde diagnostiek"
+        "advBtn": "Geavanceerde diagnostiek",
+        "calibrateBtn": "Ijken"
     },
     "registration": {
         "title": "Registreer Proscanner",
@@ -248,7 +249,8 @@
         "scanStartDetails": "Scannen kan niet worden gestart. Koppel de USB los en sluit deze weer aan, en klik vervolgens op \"Retry Scan\".",
         "serviceDetails": "Scannen kan niet worden gestart. Start uw tablet opnieuw op en probeer het opnieuw.",
         "turntableMsg": "Fout bij het verbinden met de platenspeler. Schakel de ProScanner uit.",
-        "userDetails": "Knoppen werden losgelaten voordat de scan was voltooid."
+        "userDetails": "Knoppen werden losgelaten voordat de scan was voltooid.",
+        "title": "Er is een fout opgetreden"
     },
     "cameraStatus": {
         "prepCamera": "Camera voorbereiden...",
@@ -268,7 +270,8 @@
     "settings": {
         "returnHome": "Terug naar huis",
         "returnRegistration": "Keer terug naar registratie",
-        "diagnosticsBtn": "Diagnose uitvoeren"
+        "diagnosticsBtn": "Diagnose uitvoeren",
+        "hidMsg": "HID-bericht verzenden"
     },
     "btn": {
         "nexBtn": "De volgende",
@@ -276,5 +279,10 @@
         "skipBtn": "Overspringen",
         "signOutBtn": "Afmelden",
         "cancelBtn": "annuleren"
+    },
+    "status": {
+        "fail": "mislukt!",
+        "checking": "Controleren...",
+        "success": "Succes!"
     }
 }

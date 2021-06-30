@@ -76,7 +76,8 @@
         "weightScaleDesc2": "무게 반응이 없으면 스캐너의 전원을 뽑았다가 다시 연결하십시오.",
         "completeBtn": "진단 완료 및 닫기",
         "cancelBtn": "진단 취소",
-        "advBtn": "고급 진단"
+        "advBtn": "고급 진단",
+        "calibrateBtn": "보정"
     },
     "registration": {
         "title": "Proscanner 등록",
@@ -248,7 +249,8 @@
         "scanStartDetails": "스캔을 시작하지 못했습니다. USB를 분리했다가 다시 연결 한 다음 \"검색 재시도\"를 클릭하십시오.",
         "serviceDetails": "스캔을 시작하지 못했습니다. 태블릿을 다시 시작하고 다시 시도하십시오.",
         "turntableMsg": "턴테이블에 연결하는 동안 오류가 발생했습니다. ProScanner의 전원을 껐다 켜십시오.",
-        "userDetails": "스캔이 완료되기 전에 버튼이 해제되었습니다."
+        "userDetails": "스캔이 완료되기 전에 버튼이 해제되었습니다.",
+        "title": "오류가 발생했습니다"
     },
     "cameraStatus": {
         "prepCamera": "카메라 준비 중 ...",
@@ -268,7 +270,8 @@
     "settings": {
         "returnHome": "집으로 돌아오다",
         "returnRegistration": "등록으로 돌아 가기",
-        "diagnosticsBtn": "진단 실행"
+        "diagnosticsBtn": "진단 실행",
+        "hidMsg": "HID 메시지 보내기"
     },
     "btn": {
         "nexBtn": "다음",
@@ -276,5 +279,10 @@
         "skipBtn": "건너 뛰기",
         "signOutBtn": "로그 아웃",
         "cancelBtn": "취소"
+    },
+    "status": {
+        "fail": "실패한!",
+        "checking": "확인 중...",
+        "success": "성공!"
     }
 }

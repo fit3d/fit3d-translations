@@ -76,7 +76,8 @@
         "weightScaleDesc2": "S'il n'y a pas de réponse de poids, débranchez l'alimentation du scanner et rebranchez-la.",
         "completeBtn": "Terminer et fermer les diagnostics",
         "cancelBtn": "Annuler le diagnostic",
-        "advBtn": "Diagnostics avancés"
+        "advBtn": "Diagnostics avancés",
+        "calibrateBtn": "Étalonner"
     },
     "registration": {
         "title": "S'inscrire",
@@ -248,7 +249,8 @@
         "scanStartDetails": "L'analyse n'a pas pu démarrer. Veuillez débrancher et rebrancher l'USB, puis cliquez sur \"Réessayer la numérisation\".",
         "serviceDetails": "L'analyse n'a pas pu démarrer. Veuillez redémarrer votre tablette et réessayer.",
         "turntableMsg": "Erreur de connexion à la platine, veuillez redémarrer le ProScanner.",
-        "userDetails": "Les boutons ont été relâchés avant la fin de l'analyse."
+        "userDetails": "Les boutons ont été relâchés avant la fin de l'analyse.",
+        "title": "Une erreur est survenue"
     },
     "cameraStatus": {
         "prepCamera": "Préparation de la caméra...",
@@ -268,7 +270,8 @@
     "settings": {
         "returnHome": "Rentrer à la maison",
         "returnRegistration": "Retour à l'inscription",
-        "diagnosticsBtn": "Exécuter les diagnostics"
+        "diagnosticsBtn": "Exécuter les diagnostics",
+        "hidMsg": "Envoyer un message HID"
     },
     "btn": {
         "nexBtn": "Suivant",
@@ -276,5 +279,10 @@
         "skipBtn": "Sauter",
         "signOutBtn": "Se déconnecter",
         "cancelBtn": "Annuler"
+    },
+    "status": {
+        "fail": "Manqué!",
+        "checking": "Vérification...",
+        "success": "Succès!"
     }
 }

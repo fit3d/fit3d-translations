@@ -76,7 +76,8 @@
         "weightScaleDesc2": "Wenn keine Gewichtsreaktion erfolgt, trennen Sie die Stromversorgung des Scanners und stecken Sie ihn wieder ein.",
         "completeBtn": "Diagnose abschließen und schließen",
         "cancelBtn": "Diagnose abbrechen",
-        "advBtn": "Erweiterte Diagnose"
+        "advBtn": "Erweiterte Diagnose",
+        "calibrateBtn": "Kalibrieren"
     },
     "registration": {
         "title": "Proscanner registrieren",
@@ -248,7 +249,8 @@
         "scanStartDetails": "Scan konnte nicht gestartet werden. Bitte trennen Sie den USB-Stick und schließen Sie ihn wieder an, und klicken Sie dann auf \"Scan wiederholen\".",
         "serviceDetails": "Scan konnte nicht gestartet werden. Bitte starten Sie Ihr Tablet neu und versuchen Sie es erneut.",
         "turntableMsg": "Fehler beim Verbinden mit dem Plattenspieler, schalten Sie den ProScanner bitte aus und wieder ein.",
-        "userDetails": "Die Tasten wurden losgelassen, bevor der Scan abgeschlossen war."
+        "userDetails": "Die Tasten wurden losgelassen, bevor der Scan abgeschlossen war.",
+        "title": "Ein Fehler ist aufgetreten"
     },
     "cameraStatus": {
         "prepCamera": "Kamera wird vorbereitet...",
@@ -268,7 +270,8 @@
     "settings": {
         "returnHome": "Nach Hause zurückkehren",
         "returnRegistration": "Zurück zur Registrierung",
-        "diagnosticsBtn": "Diagnose ausführen"
+        "diagnosticsBtn": "Diagnose ausführen",
+        "hidMsg": "HID-Nachricht senden"
     },
     "btn": {
         "nexBtn": "Nächster",
@@ -276,5 +279,10 @@
         "skipBtn": "Überspringen",
         "signOutBtn": "Austragen",
         "cancelBtn": "Stornieren"
+    },
+    "status": {
+        "fail": "Gescheitert!",
+        "checking": "Überprüfung...",
+        "success": "Erfolg!"
     }
 }

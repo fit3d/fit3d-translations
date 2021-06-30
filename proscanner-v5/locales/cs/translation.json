@@ -76,7 +76,8 @@
         "weightScaleDesc2": "Pokud váha nereaguje, odpojte napájení skeneru a znovu ji zapojte.",
         "completeBtn": "Dokončete a zavřete diagnostiku",
         "cancelBtn": "Zrušit diagnostiku",
-        "advBtn": "Pokročilá diagnostika"
+        "advBtn": "Pokročilá diagnostika",
+        "calibrateBtn": "Kalibrovat"
     },
     "registration": {
         "title": "Zaregistrujte Proscanner",
@@ -248,7 +249,8 @@
         "scanStartDetails": "Spuštění skenování se nezdařilo. Odpojte a znovu připojte USB a klikněte na „Opakovat skenování“.",
         "serviceDetails": "Spuštění skenování se nezdařilo. Restartujte tablet a zkuste to znovu.",
         "turntableMsg": "Chyba při připojení k gramofonu, vypněte prosím ProScanner.",
-        "userDetails": "Tlačítka byla uvolněna před dokončením skenování."
+        "userDetails": "Tlačítka byla uvolněna před dokončením skenování.",
+        "title": "Došlo k chybě"
     },
     "cameraStatus": {
         "prepCamera": "Příprava fotoaparátu ...",
@@ -268,7 +270,8 @@
     "settings": {
         "returnHome": "Vrátit se domů",
         "returnRegistration": "Zpět na registraci",
-        "diagnosticsBtn": "Spusťte diagnostiku"
+        "diagnosticsBtn": "Spusťte diagnostiku",
+        "hidMsg": "Odeslat zprávu HID"
     },
     "btn": {
         "nexBtn": "další",
@@ -276,5 +279,10 @@
         "skipBtn": "Přeskočit",
         "signOutBtn": "Odhlásit se",
         "cancelBtn": "zrušení"
+    },
+    "status": {
+        "fail": "Selhalo!",
+        "checking": "Probíhá kontrola ...",
+        "success": "Úspěch!"
     }
 }

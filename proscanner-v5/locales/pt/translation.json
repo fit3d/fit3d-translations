@@ -76,7 +76,8 @@
         "weightScaleDesc2": "Se não houver resposta de peso, desconecte a alimentação do scanner e conecte-o novamente.",
         "completeBtn": "Concluir e fechar diagnósticos",
         "cancelBtn": "Cancelar Diagnóstico",
-        "advBtn": "Diagnóstico Avançado"
+        "advBtn": "Diagnóstico Avançado",
+        "calibrateBtn": "Calibrar"
     },
     "registration": {
         "title": "Registrar Proscanner",
@@ -248,7 +249,8 @@
         "scanStartDetails": "A digitalização falhou ao iniciar. Desconecte e reconecte o USB e clique em \"Tentar novamente a varredura\".",
         "serviceDetails": "A digitalização falhou ao iniciar. Reinicie o seu tablet e tente novamente.",
         "turntableMsg": "Erro ao conectar ao toca-discos, desligue e ligue o ProScanner.",
-        "userDetails": "Os botões foram liberados antes que a digitalização fosse concluída."
+        "userDetails": "Os botões foram liberados antes que a digitalização fosse concluída.",
+        "title": "Ocorreu um erro"
     },
     "cameraStatus": {
         "prepCamera": "Preparando câmera ...",
@@ -268,7 +270,8 @@
     "settings": {
         "returnHome": "Voltar para casa",
         "returnRegistration": "Voltar para o registro",
-        "diagnosticsBtn": "Executar diagnósticos"
+        "diagnosticsBtn": "Executar diagnósticos",
+        "hidMsg": "Enviar mensagem HID"
     },
     "btn": {
         "nexBtn": "Próximo",
@@ -276,5 +279,10 @@
         "skipBtn": "Pular",
         "signOutBtn": "Sair",
         "cancelBtn": "Cancelar"
+    },
+    "status": {
+        "fail": "Fracassado!",
+        "checking": "Verificando ...",
+        "success": "Sucesso!"
     }
 }

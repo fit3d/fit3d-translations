@@ -76,7 +76,8 @@
         "weightScaleDesc2": "如果没有重量响应，请拔下扫描仪的电源并重新插入。",
         "completeBtn": "完成并关闭诊断",
         "cancelBtn": "取消诊断",
-        "advBtn": "高级诊断"
+        "advBtn": "高级诊断",
+        "calibrateBtn": "校准"
     },
     "registration": {
         "title": "注册 Proscanner",
@@ -248,7 +249,8 @@
         "scanStartDetails": "扫描无法启动。请拔下并重新插入 USB，然后单击“重试扫描”。",
         "serviceDetails": "扫描无法启动。请重新启动平板电脑并重试。",
         "turntableMsg": "连接到转盘时出错，请重启 ProScanner。",
-        "userDetails": "在扫描完成之前释放按钮。"
+        "userDetails": "在扫描完成之前释放按钮。",
+        "title": "发生了错误"
     },
     "cameraStatus": {
         "prepCamera": "准备相机...",
@@ -268,7 +270,8 @@
     "settings": {
         "returnHome": "回家",
         "returnRegistration": "返回注册",
-        "diagnosticsBtn": "运行诊断"
+        "diagnosticsBtn": "运行诊断",
+        "hidMsg": "发送隐藏消息"
     },
     "btn": {
         "nexBtn": "下一个",
@@ -276,5 +279,10 @@
         "skipBtn": "跳过",
         "signOutBtn": "登出",
         "cancelBtn": "取消"
+    },
+    "status": {
+        "fail": "失败的！",
+        "checking": "检查...",
+        "success": "成功！"
     }
 }
