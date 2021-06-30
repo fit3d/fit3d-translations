@@ -76,7 +76,8 @@
     "weightScaleDesc2": "If there is no weight response, unplug power for scanner and plug back in.",
     "completeBtn": "Finish and Close Diagnostics",
     "cancelBtn": "Cancel Diagnostics",
-    "advBtn": "Advanced Diagnostics"
+    "advBtn": "Advanced Diagnostics",
+    "calibrateBtn": "Calibrate"
   },
   "registration": {
     "title": "Register Proscanner",
@@ -236,6 +237,7 @@
     "registration": "This ProScanner is currently inactive due to account issues. Please have the ProScanner owner contact our support team using \"Help?\" widget at the bottom right of the screen or by email at support@fit3d.com to resolve.",
     "scanDesc": "Clicking buttons will cause turntable to spin",
     "retryScanBtn": "Retry Scan",
+    "title": "An Error Has Occurred",
     "template": "If this error occurs again, please have the ProScanner owner contact our support team using \"Help?\" widget at the bottom right of the screen.",
     "details": "Error Details:",
     "scanCompleteMsg": "Please retry your scan.",
@@ -253,6 +255,11 @@
     "cameraDisconnected": "Camera Disconnected",
     "scanning": "Scanning"
   },
+  "status": {
+    "fail": "Failed!",
+    "checking": "Checking...",
+    "success": "Success!"
+  },
   "hidStatus": {
     "refresh": "Refresh",
     "settings": "Settings",
@@ -264,7 +271,8 @@
   "settings": {
     "returnHome": "Return Home",
     "returnRegistration": "Return to Registration",
-    "diagnosticsBtn": "Run Diagnostics"
+    "diagnosticsBtn": "Run Diagnostics",
+    "hidMsg": "Send HID Message"
   },
   "btn": {
     "nexBtn": "Next",
