@@ -88,7 +88,20 @@
         "turntableSn": "4. Numéro de série de la platine",
         "error": "L'enregistrement a échoué. Veuillez réessayer.",
         "error404": "Échec de l'enregistrement : code d'activation non valide. Veuillez réessayer.",
-        "error409": "Échec de l'enregistrement : le scanner a déjà été enregistré."
+        "error409": "Échec de l'enregistrement : le scanner a déjà été enregistré.",
+        "formErrors": {
+            "activationCodeRequired": "Code d'activation requis",
+            "activationCodeLength": "Le code d'activation doit comporter 10 caractères",
+            "systemIdRequired": "ID système requis",
+            "systemIdType": "L'ID système doit être un nombre",
+            "systemIdInvalid": "Numéro d'identification système non valide",
+            "sliderSnRequired": "Numéro de série du curseur requis",
+            "sliderSnType": "Le numéro de série du curseur doit être un nombre",
+            "sliderSnInvalid": "Numéro de série non valide",
+            "turntableRequired": "Numéro de série du tourne-disque requis",
+            "turntableType": "Le numéro de série de la platine doit être un nombre",
+            "turntableInvalid": "Numéro de série de la platine non valide"
+        }
     },
     "signIn": {
         "title": "Connectez-vous pour numériser",

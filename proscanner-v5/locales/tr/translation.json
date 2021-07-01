@@ -88,7 +88,20 @@
         "turntableSn": "4. Döner Tabla Seri Numarası",
         "error": "Kayıt başarısız oldu--lütfen tekrar deneyin.",
         "error404": "Kayıt başarısız oldu: Geçersiz Aktivasyon Kodu--lütfen tekrar deneyin.",
-        "error409": "Kayıt başarısız: Tarayıcı zaten kayıtlı."
+        "error409": "Kayıt başarısız: Tarayıcı zaten kayıtlı.",
+        "formErrors": {
+            "activationCodeRequired": "Aktivasyon kodu gerekli",
+            "activationCodeLength": "Aktivasyon kodu 10 karakter uzunluğunda olmalıdır",
+            "systemIdRequired": "Sistem kimliği gerekli",
+            "systemIdType": "Sistem kimliği bir sayı olmalıdır",
+            "systemIdInvalid": "Geçersiz sistem kimlik numarası",
+            "sliderSnRequired": "Kaydırıcı seri numarası gerekli",
+            "sliderSnType": "Kaydırıcı seri numarası bir sayı olmalıdır",
+            "sliderSnInvalid": "Geçersiz gümüş seri numarası",
+            "turntableRequired": "Pikap seri numarası gerekli",
+            "turntableType": "Pikap seri numarası bir sayı olmalıdır",
+            "turntableInvalid": "Geçersiz döner tabla seri numarası"
+        }
     },
     "signIn": {
         "title": "Taramak için Oturum Açın",

@@ -88,7 +88,20 @@
         "turntableSn": "4. Serienummer för skivspelare",
         "error": "Registreringen misslyckades - försök igen.",
         "error404": "Registreringen misslyckades: Ogiltig aktiveringskod - försök igen.",
-        "error409": "Registreringen misslyckades: Skannern har redan registrerats."
+        "error409": "Registreringen misslyckades: Skannern har redan registrerats.",
+        "formErrors": {
+            "activationCodeRequired": "Aktiveringskod krävs",
+            "activationCodeLength": "Aktiveringskoden bör vara tio tecken lång",
+            "systemIdRequired": "System-ID krävs",
+            "systemIdType": "System-ID ska vara ett nummer",
+            "systemIdInvalid": "Ogiltigt system-ID-nummer",
+            "sliderSnRequired": "Slider serienummer krävs",
+            "sliderSnType": "Skjutreglaget ska vara ett nummer",
+            "sliderSnInvalid": "Ogiltigt silder serienummer",
+            "turntableRequired": "Skivspelarens serienummer krävs",
+            "turntableType": "Skivspelarens serienummer ska vara ett nummer",
+            "turntableInvalid": "Ogiltigt serienummer för skivspelare"
+        }
     },
     "signIn": {
         "title": "Logga in för att skanna",

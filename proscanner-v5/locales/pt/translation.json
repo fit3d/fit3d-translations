@@ -88,7 +88,20 @@
         "turntableSn": "4. Número de série da plataforma giratória",
         "error": "O registro falhou - por favor, tente novamente.",
         "error404": "Falha no registro: código de ativação inválido - tente novamente.",
-        "error409": "Falha no registro: o scanner já foi registrado."
+        "error409": "Falha no registro: o scanner já foi registrado.",
+        "formErrors": {
+            "activationCodeRequired": "Código de ativação necessário",
+            "activationCodeLength": "O código de ativação deve ter 10 caracteres de comprimento",
+            "systemIdRequired": "ID do sistema necessária",
+            "systemIdType": "O ID do sistema deve ser um número",
+            "systemIdInvalid": "Número de ID do sistema inválido",
+            "sliderSnRequired": "Número de série do controle deslizante obrigatório",
+            "sliderSnType": "O número de série do controle deslizante deve ser um número",
+            "sliderSnInvalid": "Número de série do silder inválido",
+            "turntableRequired": "Número de série da plataforma giratória necessário",
+            "turntableType": "O número de série da plataforma giratória deve ser um número",
+            "turntableInvalid": "Número de série da plataforma giratória inválido"
+        }
     },
     "signIn": {
         "title": "Faça login para digitalizar",

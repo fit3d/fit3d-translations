@@ -88,7 +88,20 @@
         "turntableSn": "4. Numero di serie del giradischi",
         "error": "Registrazione non riuscita. Riprova.",
         "error404": "Registrazione non riuscita: codice di attivazione non valido. Riprova.",
-        "error409": "Registrazione non riuscita: lo scanner è già stato registrato."
+        "error409": "Registrazione non riuscita: lo scanner è già stato registrato.",
+        "formErrors": {
+            "activationCodeRequired": "Codice di attivazione richiesto",
+            "activationCodeLength": "Il codice di attivazione deve essere lungo 10 caratteri",
+            "systemIdRequired": "ID di sistema richiesto",
+            "systemIdType": "L'ID di sistema dovrebbe essere un numero",
+            "systemIdInvalid": "Numero ID di sistema non valido",
+            "sliderSnRequired": "È richiesto il numero di serie del dispositivo di scorrimento",
+            "sliderSnType": "Il numero di serie del dispositivo di scorrimento deve essere un numero",
+            "sliderSnInvalid": "Numero di serie silder non valido",
+            "turntableRequired": "Numero di serie del giradischi richiesto",
+            "turntableType": "Il numero di serie del giradischi dovrebbe essere un numero",
+            "turntableInvalid": "Numero di serie del giradischi non valido"
+        }
     },
     "signIn": {
         "title": "Accedi per eseguire la scansione",

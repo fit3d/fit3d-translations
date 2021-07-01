@@ -88,7 +88,20 @@
         "turntableSn": "4. Levysoittimen sarjanumero",
         "error": "Rekisteröinti epäonnistui - yritä uudelleen.",
         "error404": "Rekisteröinti epäonnistui: Virheellinen aktivointikoodi - yritä uudelleen.",
-        "error409": "Rekisteröinti epäonnistui: Skanneri on jo rekisteröity."
+        "error409": "Rekisteröinti epäonnistui: Skanneri on jo rekisteröity.",
+        "formErrors": {
+            "activationCodeRequired": "Aktivointikoodi vaaditaan",
+            "activationCodeLength": "Aktivointikoodin tulee olla 10 merkkiä pitkä",
+            "systemIdRequired": "Järjestelmän tunnus vaaditaan",
+            "systemIdType": "Järjestelmän tunnuksen tulee olla numero",
+            "systemIdInvalid": "Virheellinen järjestelmän tunnistenumero",
+            "sliderSnRequired": "Liukusäätimen sarjanumero vaaditaan",
+            "sliderSnType": "Liukusäätimen sarjanumeron tulee olla numero",
+            "sliderSnInvalid": "Virheellinen silder-sarjanumero",
+            "turntableRequired": "Vaaditaan levysoittimen sarjanumero",
+            "turntableType": "Levysoittimen sarjanumeron tulisi olla numero",
+            "turntableInvalid": "Virheellinen levysoittimen sarjanumero"
+        }
     },
     "signIn": {
         "title": "Kirjaudu sisään skannaamaan",

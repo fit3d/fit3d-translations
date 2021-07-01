@@ -88,7 +88,20 @@
         "turntableSn": "4. 轉盤序列號",
         "error": "註冊失敗，請重試。",
         "error404": "註冊失敗：無效的激活碼——請重試。",
-        "error409": "註冊失敗：掃描儀已被註冊。"
+        "error409": "註冊失敗：掃描儀已被註冊。",
+        "formErrors": {
+            "activationCodeRequired": "需要激活碼",
+            "activationCodeLength": "激活碼長度應為 10 個字符",
+            "systemIdRequired": "需要係統 ID",
+            "systemIdType": "系統 ID 應該是一個數字",
+            "systemIdInvalid": "無效的系統 ID 號",
+            "sliderSnRequired": "需要滑塊序列號",
+            "sliderSnType": "滑塊序列號應該是數字",
+            "sliderSnInvalid": "錫爾序列號無效",
+            "turntableRequired": "需要轉盤序列號",
+            "turntableType": "轉盤序列號應該是一個數字",
+            "turntableInvalid": "轉盤序列號無效"
+        }
     },
     "signIn": {
         "title": "登錄掃描",

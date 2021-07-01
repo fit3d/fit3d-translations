@@ -88,7 +88,20 @@
         "turntableSn": "4. Seriennummer des Plattenspielers",
         "error": "Registrierung fehlgeschlagen. Bitte versuchen Sie es erneut.",
         "error404": "Registrierung fehlgeschlagen: Ungültiger Aktivierungscode - bitte versuchen Sie es erneut.",
-        "error409": "Registrierung fehlgeschlagen: Scanner wurde bereits registriert."
+        "error409": "Registrierung fehlgeschlagen: Scanner wurde bereits registriert.",
+        "formErrors": {
+            "activationCodeRequired": "Aktivierungscode erforderlich",
+            "activationCodeLength": "Der Aktivierungscode sollte 10 Zeichen lang sein",
+            "systemIdRequired": "System-ID erforderlich",
+            "systemIdType": "Die System-ID sollte eine Zahl sein",
+            "systemIdInvalid": "Ungültige System-ID-Nummer",
+            "sliderSnRequired": "Slider-Seriennummer erforderlich",
+            "sliderSnType": "Die Seriennummer des Sliders sollte eine Zahl sein",
+            "sliderSnInvalid": "Ungültige silberne Seriennummer",
+            "turntableRequired": "Plattenspieler-Seriennummer erforderlich",
+            "turntableType": "Die Seriennummer des Plattenspielers sollte eine Zahl sein",
+            "turntableInvalid": "Ungültige Seriennummer des Plattenspielers"
+        }
     },
     "signIn": {
         "title": "Zum Scannen anmelden",

@@ -88,7 +88,20 @@
         "turntableSn": "4. Sériové číslo gramofonu",
         "error": "Registrace se nezdařila - zkuste to prosím znovu.",
         "error404": "Registrace se nezdařila: Neplatný aktivační kód - zkuste to znovu.",
-        "error409": "Registrace se nezdařila: Skener již byl zaregistrován."
+        "error409": "Registrace se nezdařila: Skener již byl zaregistrován.",
+        "formErrors": {
+            "activationCodeRequired": "Je vyžadován aktivační kód",
+            "activationCodeLength": "Aktivační kód by měl mít 10 znaků",
+            "systemIdRequired": "Je vyžadováno ID systému",
+            "systemIdType": "ID systému by mělo být číslo",
+            "systemIdInvalid": "Neplatné ID číslo systému",
+            "sliderSnRequired": "Je vyžadováno sériové číslo jezdce",
+            "sliderSnType": "Sériové číslo posuvníku by mělo být číslo",
+            "sliderSnInvalid": "Neplatné sériové číslo silder",
+            "turntableRequired": "Je vyžadováno sériové číslo gramofonu",
+            "turntableType": "Sériové číslo gramofonu by mělo být číslo",
+            "turntableInvalid": "Neplatné sériové číslo gramofonu"
+        }
     },
     "signIn": {
         "title": "Přihlaste se ke skenování",

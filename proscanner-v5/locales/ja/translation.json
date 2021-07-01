@@ -88,7 +88,20 @@
         "turntableSn": "4.ターンテーブルのシリアル番号",
         "error": "登録に失敗しました。もう一度やり直してください。",
         "error404": "登録に失敗しました：無効なアクティベーションコード-再試行してください。",
-        "error409": "登録に失敗しました：スキャナーはすでに登録されています。"
+        "error409": "登録に失敗しました：スキャナーはすでに登録されています。",
+        "formErrors": {
+            "activationCodeRequired": "アクティベーションコードが必要です",
+            "activationCodeLength": "アクティベーションコードの長さは10文字である必要があります",
+            "systemIdRequired": "システムIDが必要です",
+            "systemIdType": "システムIDは数字である必要があります",
+            "systemIdInvalid": "無効なシステムID番号",
+            "sliderSnRequired": "スライダーのシリアル番号が必要です",
+            "sliderSnType": "スライダーのシリアル番号は番号である必要があります",
+            "sliderSnInvalid": "無効なシルダーシリアル番号",
+            "turntableRequired": "ターンテーブルのシリアル番号が必要です",
+            "turntableType": "ターンテーブルのシリアル番号は番号である必要があります",
+            "turntableInvalid": "ターンテーブルのシリアル番号が無効です"
+        }
     },
     "signIn": {
         "title": "サインインしてスキャン",

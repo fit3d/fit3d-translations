@@ -88,7 +88,20 @@
         "turntableSn": "4. 转盘序列号",
         "error": "注册失败，请重试。",
         "error404": "注册失败：无效的激活码——请重试。",
-        "error409": "注册失败：扫描仪已被注册。"
+        "error409": "注册失败：扫描仪已被注册。",
+        "formErrors": {
+            "activationCodeRequired": "需要激活码",
+            "activationCodeLength": "激活码长度应为 10 个字符",
+            "systemIdRequired": "需要系统 ID",
+            "systemIdType": "系统 ID 应该是一个数字",
+            "systemIdInvalid": "无效的系统 ID 号",
+            "sliderSnRequired": "需要滑块序列号",
+            "sliderSnType": "滑块序列号应该是数字",
+            "sliderSnInvalid": "锡尔序列号无效",
+            "turntableRequired": "需要转盘序列号",
+            "turntableType": "转盘序列号应该是一个数字",
+            "turntableInvalid": "转盘序列号无效"
+        }
     },
     "signIn": {
         "title": "登录扫描",

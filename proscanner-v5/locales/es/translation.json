@@ -88,7 +88,20 @@
         "turntableSn": "4. Número de serie de la plataforma giratoria",
         "error": "Falló el registro. Vuelva a intentarlo.",
         "error404": "Error de registro: código de activación no válido; inténtelo de nuevo.",
-        "error409": "Error de registro: el escáner ya se ha registrado."
+        "error409": "Error de registro: el escáner ya se ha registrado.",
+        "formErrors": {
+            "activationCodeRequired": "Se requiere código de activación",
+            "activationCodeLength": "El código de activación debe tener 10 caracteres de longitud",
+            "systemIdRequired": "Se requiere la identificación del sistema",
+            "systemIdType": "El ID del sistema debe ser un número",
+            "systemIdInvalid": "Número de identificación del sistema no válido",
+            "sliderSnRequired": "Se requiere el número de serie del control deslizante",
+            "sliderSnType": "El número de serie del control deslizante debe ser un número",
+            "sliderSnInvalid": "Número de serie de silder no válido",
+            "turntableRequired": "Se requiere el número de serie de la plataforma giratoria",
+            "turntableType": "El número de serie del tocadiscos debe ser un número",
+            "turntableInvalid": "Número de serie del tocadiscos no válido"
+        }
     },
     "signIn": {
         "title": "Iniciar sesión para escanear",

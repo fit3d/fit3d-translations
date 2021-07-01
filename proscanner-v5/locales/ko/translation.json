@@ -88,7 +88,20 @@
         "turntableSn": "4. 턴테이블 일련 번호",
         "error": "등록하지 못했습니다. 다시 시도하세요.",
         "error404": "등록 실패 : 유효하지 않은 활성화 코드-다시 시도하십시오.",
-        "error409": "등록 실패 : 스캐너가 이미 등록되었습니다."
+        "error409": "등록 실패 : 스캐너가 이미 등록되었습니다.",
+        "formErrors": {
+            "activationCodeRequired": "활성화 코드 필요",
+            "activationCodeLength": "활성화 코드는 10 자 여야합니다.",
+            "systemIdRequired": "시스템 ID 필요",
+            "systemIdType": "시스템 ID는 숫자 여야합니다.",
+            "systemIdInvalid": "잘못된 시스템 ID 번호",
+            "sliderSnRequired": "슬라이더 일련 번호 필요",
+            "sliderSnType": "슬라이더 일련 번호는 숫자 여야합니다.",
+            "sliderSnInvalid": "유효하지 않은 사일 더 일련 번호",
+            "turntableRequired": "턴테이블 일련 번호 필요",
+            "turntableType": "턴테이블 일련 번호는 숫자 여야합니다.",
+            "turntableInvalid": "잘못된 턴테이블 일련 번호"
+        }
     },
     "signIn": {
         "title": "스캔에 로그인",

@@ -88,7 +88,20 @@
         "turntableSn": "4. Turntable Serial Number",
         "error": "Registration failed--please try again.",
         "error404": "Registration failed: Invalid Activation Code--please try again.",
-        "error409": "Registration failed: Scanner has already been registered."
+        "error409": "Registration failed: Scanner has already been registered.",
+        "formErrors": {
+            "activationCodeRequired": "Activation code required",
+            "activationCodeLength": "Activation code should be 10 characters in length",
+            "systemIdRequired": "System ID required",
+            "systemIdType": "System ID should be a number",
+            "systemIdInvalid": "Invalid system ID number",
+            "sliderSnRequired": "Slider serial number required",
+            "sliderSnType": "Slider serial number should be a number",
+            "sliderSnInvalid": "Invalid silder serial number",
+            "turntableRequired": "Turntable serial number required",
+            "turntableType": "Turntable serial number should be a number",
+            "turntableInvalid": "Invalid turntable serial number"
+        }
     },
     "signIn": {
         "title": "Sign In to Scan",

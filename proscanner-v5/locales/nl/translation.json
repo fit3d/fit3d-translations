@@ -88,7 +88,20 @@
         "turntableSn": "4. Serienummer draaitafel",
         "error": "Registratie mislukt. Probeer het opnieuw.",
         "error404": "Registratie mislukt: ongeldige activeringscode - probeer het opnieuw.",
-        "error409": "Registratie mislukt: Scanner is al geregistreerd."
+        "error409": "Registratie mislukt: Scanner is al geregistreerd.",
+        "formErrors": {
+            "activationCodeRequired": "Activeringscode vereist",
+            "activationCodeLength": "Activeringscode moet 10 tekens lang zijn",
+            "systemIdRequired": "Systeem-ID vereist",
+            "systemIdType": "Systeem-ID moet een getal zijn",
+            "systemIdInvalid": "Ongeldig systeem-ID-nummer",
+            "sliderSnRequired": "Serienummer van schuifregelaar vereist",
+            "sliderSnType": "Serienummer van de schuifregelaar moet een getal zijn",
+            "sliderSnInvalid": "Ongeldig serienummer van Silder",
+            "turntableRequired": "Serienummer draaitafel vereist",
+            "turntableType": "Het serienummer van de draaitafel moet een getal zijn",
+            "turntableInvalid": "Ongeldig serienummer draaitafel"
+        }
     },
     "signIn": {
         "title": "Aanmelden om te scannen",
