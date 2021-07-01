@@ -110,7 +110,10 @@
         "emailRequired": "需要电子邮件",
         "emailInvalid": "无效的邮件地址",
         "passwordRequired": "要求输入密码",
-        "waiverRequired": "请阅读并接受免责声明以继续"
+        "waiverRequired": "请阅读并接受免责声明以继续",
+        "error": "登录失败：电子邮件或密码无效",
+        "pinRequestFail": "扫描 PIN 码请求失败。请检查您的电子邮件是否有效。",
+        "pinSubmitFail": "PIN 码无效，请重试。"
     },
     "signUp": {
         "homeBtn": "家",
@@ -196,7 +199,10 @@
         "terms": "- 请接受条款协议以继续",
         "privacy": "- 请接受 Fit3D 的隐私政策以继续",
         "waiver": "- 请阅读并接受免责声明以继续",
-        "ethnicity": "种族是必需的"
+        "ethnicity": "种族是必需的",
+        "error": "没有网络连接。请重新连接您的互联网，然后重试。",
+        "error422": "电子邮件已在使用中。请使用其他邮箱",
+        "error429": "重复注册尝试。帐户已创建，请尝试登录。"
     },
     "overview": {
         "hairTitle": "请把头发竖起来",

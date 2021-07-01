@@ -110,7 +110,10 @@
         "emailRequired": "Epost (krävs",
         "emailInvalid": "Ogiltig e-postadress",
         "passwordRequired": "Lösenord krävs",
-        "waiverRequired": "Vänligen läs och acceptera ansvarsfriheten för att fortsätta"
+        "waiverRequired": "Vänligen läs och acceptera ansvarsfriheten för att fortsätta",
+        "error": "Inloggningen misslyckades: Ogiltigt e-postadress eller lösenord",
+        "pinRequestFail": "Det gick inte att skanna PIN-kodbegäran. Kontrollera om ditt e-postmeddelande är giltigt.",
+        "pinSubmitFail": "Ogiltig PIN-kod. Försök igen."
     },
     "signUp": {
         "homeBtn": "Hem",
@@ -196,7 +199,10 @@
         "terms": "- Acceptera villkoren för att fortsätta",
         "privacy": "- Godkänn Fit3Ds sekretesspolicy för att fortsätta",
         "waiver": "- Vänligen läs och acceptera ansvarsfrågan för att fortsätta",
-        "ethnicity": "Etnicitet krävs"
+        "ethnicity": "Etnicitet krävs",
+        "error": "Ingen internetanslutning. Anslut ditt internet igen och försök igen.",
+        "error422": "Mailadressen används redan. Använd ett annat e-postmeddelande",
+        "error429": "Duplicera registreringsansökan. Kontot har redan skapats, försök logga in."
     },
     "overview": {
         "hairTitle": "Snälla sätt upp håret",

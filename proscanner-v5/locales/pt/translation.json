@@ -110,7 +110,10 @@
         "emailRequired": "Email (obrigatório",
         "emailInvalid": "Endereço de email invalido",
         "passwordRequired": "Senha requerida",
-        "waiverRequired": "Leia e aceite a renúncia de responsabilidade para continuar"
+        "waiverRequired": "Leia e aceite a renúncia de responsabilidade para continuar",
+        "error": "Falha no login: e-mail ou senha inválida",
+        "pinRequestFail": "A solicitação do código PIN de digitalização falhou. Verifique se o seu e-mail é válido.",
+        "pinSubmitFail": "PIN inválido, tente novamente."
     },
     "signUp": {
         "homeBtn": "Casa",
@@ -196,7 +199,10 @@
         "terms": "- Aceite o Acordo de Termos para continuar",
         "privacy": "- Aceite a política de privacidade da Fit3D para continuar",
         "waiver": "- Leia e aceite a Isenção de Responsabilidade para continuar",
-        "ethnicity": "Etnia é necessária"
+        "ethnicity": "Etnia é necessária",
+        "error": "Sem ligação à Internet. Por favor, reconecte sua internet e tente novamente.",
+        "error422": "O e-mail já está sendo usado. Por favor use outro e-mail",
+        "error429": "Tentativa de inscrição duplicada. Conta já criada, tente fazer o login."
     },
     "overview": {
         "hairTitle": "Por favor prenda o cabelo",

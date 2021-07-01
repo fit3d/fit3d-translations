@@ -110,7 +110,10 @@
         "emailRequired": "E-posta gerekli",
         "emailInvalid": "Geçersiz e-posta adresi",
         "passwordRequired": "şifre gerekli",
-        "waiverRequired": "Devam etmek için lütfen Sorumluluk Feragatı'nı okuyun ve kabul edin"
+        "waiverRequired": "Devam etmek için lütfen Sorumluluk Feragatı'nı okuyun ve kabul edin",
+        "error": "Oturum açılamadı: Geçersiz e-posta veya parola",
+        "pinRequestFail": "PIN kodu tarama isteği başarısız oldu. Lütfen e-postanızın geçerli olup olmadığını kontrol edin.",
+        "pinSubmitFail": "Geçersiz PIN, lütfen tekrar deneyin."
     },
     "signUp": {
         "homeBtn": "Ev",
@@ -196,7 +199,10 @@
         "terms": "- Devam etmek için lütfen Şartlar Sözleşmesini kabul edin",
         "privacy": "- Devam etmek için lütfen Fit3D'nin gizlilik politikasını kabul edin",
         "waiver": "- Devam etmek için lütfen Sorumluluk Feragatı'nı okuyun ve kabul edin",
-        "ethnicity": "etnik köken gerekli"
+        "ethnicity": "etnik köken gerekli",
+        "error": "İnternet bağlantısı yok. Lütfen internetinizi yeniden bağlayın ve tekrar deneyin.",
+        "error422": "E-posta zaten kullanımda. Lütfen başka bir e-posta kullanın",
+        "error429": "Yinelenen kayıt girişimi. Hesap zaten oluşturuldu, lütfen giriş yapmayı deneyin."
     },
     "overview": {
         "hairTitle": "lütfen saçını uzat",

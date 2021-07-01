@@ -110,7 +110,10 @@
         "emailRequired": "Je vyžadován e-mail",
         "emailInvalid": "neplatná emailová adresa",
         "passwordRequired": "Vyžaduje se heslo",
-        "waiverRequired": "Pro pokračování si prosím přečtěte a přijměte Zřeknutí se odpovědnosti"
+        "waiverRequired": "Pro pokračování si prosím přečtěte a přijměte Zřeknutí se odpovědnosti",
+        "error": "Přihlášení se nezdařilo: Neplatný e-mail nebo heslo",
+        "pinRequestFail": "Požadavek na skenování kódu PIN se nezdařil. Zkontrolujte prosím, zda je váš e-mail platný.",
+        "pinSubmitFail": "Neplatný PIN, zkuste to znovu."
     },
     "signUp": {
         "homeBtn": "Domov",
@@ -196,7 +199,10 @@
         "terms": "- Chcete-li pokračovat, přijměte prosím smlouvu o podmínkách",
         "privacy": "- Chcete-li pokračovat, přijměte zásady ochrany osobních údajů společnosti Fit3D",
         "waiver": "- Chcete-li pokračovat, přečtěte si a přijměte Zřeknutí se odpovědnosti",
-        "ethnicity": "Je požadována etnická příslušnost"
+        "ethnicity": "Je požadována etnická příslušnost",
+        "error": "Žádné internetové připojení. Připojte prosím znovu svůj internet a zkuste to znovu.",
+        "error422": "E-mail se již používá. Použijte prosím jiný e-mail",
+        "error429": "Duplicitní pokus o registraci. Účet již byl vytvořen, zkuste se přihlásit."
     },
     "overview": {
         "hairTitle": "Prosím, dejte si vlasy nahoru",

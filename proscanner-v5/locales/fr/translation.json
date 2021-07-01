@@ -110,7 +110,10 @@
         "emailRequired": "Email (requis",
         "emailInvalid": "Adresse e-mail invalide",
         "passwordRequired": "Mot de passe requis",
-        "waiverRequired": "Veuillez lire et accepter la décharge de responsabilité pour continuer"
+        "waiverRequired": "Veuillez lire et accepter la décharge de responsabilité pour continuer",
+        "error": "Échec de la connexion : e-mail ou mot de passe invalide",
+        "pinRequestFail": "Échec de la demande de numérisation du code PIN. Veuillez vérifier si votre e-mail est valide.",
+        "pinSubmitFail": "NIP invalide, veuillez réessayer."
     },
     "signUp": {
         "homeBtn": "Domicile",
@@ -196,7 +199,10 @@
         "terms": "- Veuillez accepter les conditions d'utilisation pour continuer",
         "privacy": "- Veuillez accepter la politique de confidentialité de Fit3D pour continuer",
         "waiver": "- Veuillez lire et accepter l'exonération de responsabilité pour continuer",
-        "ethnicity": "L'ethnicité est requise"
+        "ethnicity": "L'ethnicité est requise",
+        "error": "Pas de connexion Internet. Veuillez reconnecter votre connexion Internet et réessayer.",
+        "error422": "Cet email est déjà utilisé. Veuillez utiliser une autre adresse e-mail",
+        "error429": "Tentative d'inscription en double. Compte déjà créé, veuillez essayer de vous connecter."
     },
     "overview": {
         "hairTitle": "S'il vous plaît mettre les cheveux",

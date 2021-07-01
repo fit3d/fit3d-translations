@@ -110,7 +110,10 @@
         "emailRequired": "Email (verplicht",
         "emailInvalid": "Ongeldig e-mailadres",
         "passwordRequired": "wachtwoord benodigd",
-        "waiverRequired": "Lees en accepteer de aansprakelijkheidsverklaring om door te gaan"
+        "waiverRequired": "Lees en accepteer de aansprakelijkheidsverklaring om door te gaan",
+        "error": "Inloggen mislukt: ongeldig e-mailadres of wachtwoord",
+        "pinRequestFail": "Verzoek om pincode scannen is mislukt. Controleer of uw e-mail geldig is.",
+        "pinSubmitFail": "Ongeldige pincode, probeer het opnieuw."
     },
     "signUp": {
         "homeBtn": "Huis",
@@ -196,7 +199,10 @@
         "terms": "- Accepteer de voorwaardenovereenkomst om door te gaan Terms",
         "privacy": "- Accepteer het privacybeleid van Fit3D om door te gaan",
         "waiver": "- Lees en accepteer de aansprakelijkheidsverklaring om door te gaan",
-        "ethnicity": "Etniciteit is vereist"
+        "ethnicity": "Etniciteit is vereist",
+        "error": "Geen internet verbinding. Maak opnieuw verbinding met internet en probeer het opnieuw.",
+        "error422": "Email is al in gebruik. Gebruik een ander e-mailadres",
+        "error429": "Dubbele aanmeldingspoging. Account al aangemaakt, probeer in te loggen."
     },
     "overview": {
         "hairTitle": "Doe alsjeblieft je haar op put",

@@ -110,7 +110,10 @@
         "emailRequired": "Email (obbligatorio",
         "emailInvalid": "indirizzo email non valido",
         "passwordRequired": "Password richiesta",
-        "waiverRequired": "Si prega di leggere e accettare l'Esonero di responsabilità per continuare"
+        "waiverRequired": "Si prega di leggere e accettare l'Esonero di responsabilità per continuare",
+        "error": "Accesso non riuscito: e-mail o password non valide",
+        "pinRequestFail": "La richiesta di scansione del codice PIN non è riuscita. Per favore controlla se la tua e-mail è valida.",
+        "pinSubmitFail": "PIN non valido, riprova."
     },
     "signUp": {
         "homeBtn": "Casa",
@@ -196,7 +199,10 @@
         "terms": "- Accetta l'accordo sui termini per continuare",
         "privacy": "- Accetta l'informativa sulla privacy di Fit3D per continuare",
         "waiver": "- Si prega di leggere e accettare l'Esonero di responsabilità per continuare",
-        "ethnicity": "L'etnia è richiesta"
+        "ethnicity": "L'etnia è richiesta",
+        "error": "Nessuna connessione internet. Riconnetti a Internet e riprova.",
+        "error422": "L'email è già in uso. Si prega di utilizzare un'altra e-mail",
+        "error429": "Tentativo di registrazione duplicato. Account già creato, prova ad accedere."
     },
     "overview": {
         "hairTitle": "Per favore metti i capelli in su",

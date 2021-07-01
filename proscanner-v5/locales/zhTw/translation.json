@@ -110,7 +110,10 @@
         "emailRequired": "需要電子郵件",
         "emailInvalid": "無效的郵件地址",
         "passwordRequired": "要求輸入密碼",
-        "waiverRequired": "請閱讀並接受免責聲明以繼續"
+        "waiverRequired": "請閱讀並接受免責聲明以繼續",
+        "error": "登錄失敗：電子郵件或密碼無效",
+        "pinRequestFail": "掃描 PIN 碼請求失敗。請檢查您的電子郵件是否有效。",
+        "pinSubmitFail": "PIN 碼無效，請重試。"
     },
     "signUp": {
         "homeBtn": "家",
@@ -196,7 +199,10 @@
         "terms": "- 請接受條款協議以繼續",
         "privacy": "- 請接受 Fit3D 的隱私政策以繼續",
         "waiver": "- 請閱讀並接受免責聲明以繼續",
-        "ethnicity": "種族是必需的"
+        "ethnicity": "種族是必需的",
+        "error": "沒有網絡連接。請重新連接您的互聯網並重試。",
+        "error422": "電子郵件已在使用中。請使用其他郵箱",
+        "error429": "重複註冊嘗試。帳戶已創建，請嘗試登錄。"
     },
     "overview": {
         "hairTitle": "請把頭髮豎起來",

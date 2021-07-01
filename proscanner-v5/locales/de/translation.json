@@ -110,7 +110,10 @@
         "emailRequired": "Email (erforderlich",
         "emailInvalid": "Ungültige E-Mail-Adresse",
         "passwordRequired": "Passwort erforderlich",
-        "waiverRequired": "Bitte lesen und akzeptieren Sie den Haftungsausschluss, um fortzufahren"
+        "waiverRequired": "Bitte lesen und akzeptieren Sie den Haftungsausschluss, um fortzufahren",
+        "error": "Anmeldung fehlgeschlagen: E-Mail oder Passwort ungültig",
+        "pinRequestFail": "Fehler beim Scannen des PIN-Codes. Bitte prüfen Sie, ob Ihre E-Mail gültig ist.",
+        "pinSubmitFail": "Ungültige PIN. Bitte versuchen Sie es erneut."
     },
     "signUp": {
         "homeBtn": "Zuhause",
@@ -196,7 +199,10 @@
         "terms": "- Bitte akzeptieren Sie die Nutzungsbedingungen, um fortzufahren",
         "privacy": "- Bitte akzeptiere die Datenschutzrichtlinie von Fit3D, um fortzufahren",
         "waiver": "- Bitte lesen und akzeptieren Sie den Haftungsausschluss, um fortzufahren",
-        "ethnicity": "Ethnizität ist erforderlich"
+        "ethnicity": "Ethnizität ist erforderlich",
+        "error": "Keine Internetverbindung. Bitte verbinden Sie Ihr Internet erneut und versuchen Sie es erneut.",
+        "error422": "E-Mail wird bereits verwendet. Bitte verwenden Sie eine andere E-Mail",
+        "error429": "Doppelter Anmeldeversuch. Konto bereits erstellt, bitte versuchen Sie sich anzumelden."
     },
     "overview": {
         "hairTitle": "Bitte Haare hochstecken",
