@@ -140,7 +140,40 @@
         "confirmRealEmail": "Eメール確認",
         "password": "パスワード（8文字以上）",
         "confirmPassword": "パスワードを認証する",
-        "birthDate": "生年月日"
+        "birthDate": "生年月日",
+        "gender": {
+            "title": "性別",
+            "male": "男性",
+            "female": "女性"
+        },
+        "unitSystemType": {
+            "title": "ユニット型",
+            "metric": "メトリック"
+        },
+        "ethnicity": {
+            "title": "民族性",
+            "unspecified": "詳細不明",
+            "hispanic": "ヒスパニック/ラティーノ",
+            "native": "アメリカンインディアンまたはアラスカ先住民",
+            "africanAmerican": "黒人またはアフリカ系アメリカ人",
+            "island": "ハワイ先住民またはその他の太平洋諸島民",
+            "caucasian": "白人"
+        },
+        "month": {
+            "title": "月",
+            "january": "1月",
+            "february": "2月",
+            "march": "行進",
+            "april": "4月",
+            "may": "五月",
+            "june": "六月",
+            "july": "7月",
+            "august": "8月",
+            "september": "9月",
+            "october": "10月",
+            "november": "11月",
+            "december": "12月"
+        }
     },
     "signUpErrors": {
         "firstName": "名が必要です",
@@ -284,5 +317,24 @@
         "fail": "失敗しました！",
         "checking": "チェック中...",
         "success": "成功！"
+    },
+    "terms": {
+        "accepted": "Fit3Dを読んで受け入れました"
+    },
+    "redirect": {
+        "home": "帰宅",
+        "login": "ログインに戻る",
+        "signup": "サインアップに戻る"
+    },
+    "updater": {
+        "title": "利用可能なアップデート",
+        "subtitle": "Fit3DProScannerアプリの新しいバージョンが利用可能です。アップデートをしますか？",
+        "updateBtn": "今すぐアップデート",
+        "cancelBtn": "後で更新"
+    },
+    "appQuit": {
+        "closeBtn": "閉じる",
+        "title": "アプリを閉じますか？",
+        "confirmBtn": "アプリを閉じる"
     }
 }

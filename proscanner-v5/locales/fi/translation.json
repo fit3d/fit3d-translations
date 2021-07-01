@@ -140,7 +140,40 @@
         "confirmRealEmail": "vahvista sähköposti",
         "password": "Salasana (yli 8 merkkiä)",
         "confirmPassword": "Vahvista salasana",
-        "birthDate": "Syntymäaika"
+        "birthDate": "Syntymäaika",
+        "gender": {
+            "title": "Sukupuoli",
+            "male": "Uros",
+            "female": "Nainen"
+        },
+        "unitSystemType": {
+            "title": "Yksikon tyyppi",
+            "metric": "Metrinen"
+        },
+        "ethnicity": {
+            "title": "Etnisyys",
+            "unspecified": "Määrittelemätön",
+            "hispanic": "Latinalaisamerikkalainen / latino",
+            "native": "Amerikan intialainen tai Alaskan syntyperäinen",
+            "africanAmerican": "Musta tai afrikkalainen amerikkalainen",
+            "island": "Alkuperäinen havaijilainen tai muu Tyynenmeren saaristo",
+            "caucasian": "Valkoihoinen"
+        },
+        "month": {
+            "title": "Kuukausi",
+            "january": "tammikuu",
+            "february": "helmikuu",
+            "march": "Maaliskuu",
+            "april": "huhtikuu",
+            "may": "saattaa",
+            "june": "Kesäkuu",
+            "july": "heinäkuu",
+            "august": "elokuu",
+            "september": "syyskuu",
+            "october": "lokakuu",
+            "november": "marraskuu",
+            "december": "joulukuu"
+        }
     },
     "signUpErrors": {
         "firstName": "Etunimi vaaditaan",
@@ -284,5 +317,24 @@
         "fail": "Epäonnistui!",
         "checking": "Tarkistetaan ...",
         "success": "Menestys!"
+    },
+    "terms": {
+        "accepted": "Olen lukenut ja hyväksynyt Fit3D: t"
+    },
+    "redirect": {
+        "home": "Palata kotiin",
+        "login": "Takaisin sisäänkirjautumiseen",
+        "signup": "Takaisin ilmoittautumiseen"
+    },
+    "updater": {
+        "title": "Päivitys saatavilla",
+        "subtitle": "Uusi versio on saatavilla Fit3D ProScanner -sovellukselle. Haluaisitko päivittää?",
+        "updateBtn": "Päivitä nyt",
+        "cancelBtn": "Päivitä myöhemmin"
+    },
+    "appQuit": {
+        "closeBtn": "kiinni",
+        "title": "Haluatko sulkea sovelluksen?",
+        "confirmBtn": "Sulje sovellus"
     }
 }

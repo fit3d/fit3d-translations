@@ -140,7 +140,40 @@
         "confirmRealEmail": "이메일 확인",
         "password": "비밀번호 (8 자 이상)",
         "confirmPassword": "비밀번호 확인",
-        "birthDate": "생년월일"
+        "birthDate": "생년월일",
+        "gender": {
+            "title": "성별",
+            "male": "남성",
+            "female": "여자"
+        },
+        "unitSystemType": {
+            "title": "단위 유형",
+            "metric": "미터법"
+        },
+        "ethnicity": {
+            "title": "민족성",
+            "unspecified": "지정되지 않음",
+            "hispanic": "히스패닉 / 라틴계",
+            "native": "아메리칸 인디언 또는 알래스카 원주민",
+            "africanAmerican": "흑인 또는 아프리카 계 미국인",
+            "island": "하와이 원주민 또는 기타 태평양 섬 주민",
+            "caucasian": "코카서스 사람"
+        },
+        "month": {
+            "title": "달",
+            "january": "일월",
+            "february": "이월",
+            "march": "행진",
+            "april": "4 월",
+            "may": "할 수있다",
+            "june": "유월",
+            "july": "칠월",
+            "august": "팔월",
+            "september": "구월",
+            "october": "십월",
+            "november": "십일월",
+            "december": "12 월"
+        }
     },
     "signUpErrors": {
         "firstName": "이름 필요",
@@ -284,5 +317,24 @@
         "fail": "실패한!",
         "checking": "확인 중...",
         "success": "성공!"
+    },
+    "terms": {
+        "accepted": "Fit3D를 읽고 수락했습니다."
+    },
+    "redirect": {
+        "home": "집으로 돌아오다",
+        "login": "로그인으로 돌아 가기",
+        "signup": "가입으로 돌아 가기"
+    },
+    "updater": {
+        "title": "업데이트 가능",
+        "subtitle": "Fit3D ProScanner 앱에 대한 새 버전을 사용할 수 있습니다. 업데이트하고 싶나요?",
+        "updateBtn": "지금 업데이트",
+        "cancelBtn": "나중에 업데이트"
+    },
+    "appQuit": {
+        "closeBtn": "닫기",
+        "title": "앱을 닫으시겠습니까?",
+        "confirmBtn": "앱 닫기"
     }
 }

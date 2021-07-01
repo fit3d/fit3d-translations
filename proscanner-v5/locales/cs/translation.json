@@ -140,7 +140,40 @@
         "confirmRealEmail": "potvrdit email",
         "password": "Heslo (8 a více znaků)",
         "confirmPassword": "Potvrďte heslo",
-        "birthDate": "Datum narození"
+        "birthDate": "Datum narození",
+        "gender": {
+            "title": "Rod",
+            "male": "mužský",
+            "female": "ženský"
+        },
+        "unitSystemType": {
+            "title": "Typ jednotky",
+            "metric": "Metrický"
+        },
+        "ethnicity": {
+            "title": "Etnický původ",
+            "unspecified": "Nespecifikováno",
+            "hispanic": "Hispánský / Latino",
+            "native": "Rodilý Američan nebo Aljaška",
+            "africanAmerican": "Černý nebo africký Američan",
+            "island": "Nativní havajský nebo jiný pacifický ostrovan",
+            "caucasian": "kavkazský"
+        },
+        "month": {
+            "title": "Měsíc",
+            "january": "leden",
+            "february": "Únor",
+            "march": "březen",
+            "april": "duben",
+            "may": "Smět",
+            "june": "červen",
+            "july": "červenec",
+            "august": "srpen",
+            "september": "září",
+            "october": "říjen",
+            "november": "listopad",
+            "december": "prosinec"
+        }
     },
     "signUpErrors": {
         "firstName": "Křestní jméno povinné",
@@ -284,5 +317,24 @@
         "fail": "Selhalo!",
         "checking": "Probíhá kontrola ...",
         "success": "Úspěch!"
+    },
+    "terms": {
+        "accepted": "Přečetl jsem si a souhlasím s Fit3D"
+    },
+    "redirect": {
+        "home": "Vrátit se domů",
+        "login": "Zpět k přihlášení",
+        "signup": "Zpět na registraci"
+    },
+    "updater": {
+        "title": "Aktualizace k dispozici",
+        "subtitle": "Pro aplikaci Fit3D ProScanner je k dispozici nová verze. Chcete aktualizovat?",
+        "updateBtn": "Nyní aktualizovat",
+        "cancelBtn": "Aktualizovat později"
+    },
+    "appQuit": {
+        "closeBtn": "Zavřít",
+        "title": "Chcete aplikaci zavřít?",
+        "confirmBtn": "Zavřít aplikaci"
     }
 }

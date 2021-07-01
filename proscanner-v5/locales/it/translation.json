@@ -140,7 +140,40 @@
         "confirmRealEmail": "Conferma email",
         "password": "Password (8+ caratteri)",
         "confirmPassword": "Conferma password",
-        "birthDate": "Data di nascita"
+        "birthDate": "Data di nascita",
+        "gender": {
+            "title": "Genere",
+            "male": "Maschio",
+            "female": "Femmina"
+        },
+        "unitSystemType": {
+            "title": "Tipo di unità",
+            "metric": "Metrica"
+        },
+        "ethnicity": {
+            "title": "etnia",
+            "unspecified": "Non specificato",
+            "hispanic": "ispanico/latino",
+            "native": "Indiani d'America o nativi dell'Alaska",
+            "africanAmerican": "Neri o afroamericani",
+            "island": "Nativo hawaiano o di altre isole del Pacifico",
+            "caucasian": "caucasico"
+        },
+        "month": {
+            "title": "Mese",
+            "january": "gennaio",
+            "february": "febbraio",
+            "march": "marzo",
+            "april": "aprile",
+            "may": "Maggio",
+            "june": "giugno",
+            "july": "luglio",
+            "august": "agosto",
+            "september": "settembre",
+            "october": "ottobre",
+            "november": "novembre",
+            "december": "dicembre"
+        }
     },
     "signUpErrors": {
         "firstName": "Nome richiesto",
@@ -284,5 +317,24 @@
         "fail": "fallito!",
         "checking": "Controllo in corso...",
         "success": "Successo!"
+    },
+    "terms": {
+        "accepted": "Ho letto e accettato Fit3D's"
+    },
+    "redirect": {
+        "home": "Torna a casa",
+        "login": "Torna al login",
+        "signup": "Torna alla registrazione"
+    },
+    "updater": {
+        "title": "Aggiornamento disponibile",
+        "subtitle": "È disponibile una nuova versione per l'app Fit3D ProScanner. Vorresti aggiornare?",
+        "updateBtn": "Aggiorna ora",
+        "cancelBtn": "Aggiorna dopo"
+    },
+    "appQuit": {
+        "closeBtn": "Vicino",
+        "title": "Vuoi chiudere l'app?",
+        "confirmBtn": "Chiudi app"
     }
 }

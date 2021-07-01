@@ -140,7 +140,40 @@
         "confirmRealEmail": "Bevestig Email",
         "password": "Wachtwoord (8+ tekens)",
         "confirmPassword": "Bevestig wachtwoord",
-        "birthDate": "Geboortedatum"
+        "birthDate": "Geboortedatum",
+        "gender": {
+            "title": "Geslacht",
+            "male": "Mannetje",
+            "female": "Vrouw"
+        },
+        "unitSystemType": {
+            "title": "Eenheidstype",
+            "metric": "Metriek"
+        },
+        "ethnicity": {
+            "title": "etniciteit",
+            "unspecified": "Niet gespecificeerd",
+            "hispanic": "Spaans/Latino",
+            "native": "American Indian of Alaska Native",
+            "africanAmerican": "Zwart of Afro-Amerikaans",
+            "island": "Inheemse Hawaiiaanse of andere Pacifische eilandbewoner",
+            "caucasian": "Kaukasisch"
+        },
+        "month": {
+            "title": "Maand",
+            "january": "januari-",
+            "february": "februari",
+            "march": "maart",
+            "april": "april",
+            "may": "mei",
+            "june": "juni-",
+            "july": "juli-",
+            "august": "augustus",
+            "september": "september",
+            "october": "oktober",
+            "november": "november",
+            "december": "december"
+        }
     },
     "signUpErrors": {
         "firstName": "Voornaam (verplicht",
@@ -284,5 +317,24 @@
         "fail": "mislukt!",
         "checking": "Controleren...",
         "success": "Succes!"
+    },
+    "terms": {
+        "accepted": "Ik heb Fit3D's gelezen en geaccepteerd"
+    },
+    "redirect": {
+        "home": "Terug naar huis",
+        "login": "Terug naar Inloggen",
+        "signup": "Terug naar Aanmelden"
+    },
+    "updater": {
+        "title": "Update beschikbaar",
+        "subtitle": "Er is een nieuwe versie beschikbaar voor de Fit3D ProScanner-app. Zou je willen updaten?",
+        "updateBtn": "Update nu",
+        "cancelBtn": "Later bijwerken"
+    },
+    "appQuit": {
+        "closeBtn": "Dichtbij",
+        "title": "Wilt u de app sluiten?",
+        "confirmBtn": "App sluiten"
     }
 }

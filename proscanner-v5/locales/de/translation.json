@@ -140,7 +140,40 @@
         "confirmRealEmail": "Bestätigungs-E-Mail",
         "password": "Passwort (8+ Zeichen)",
         "confirmPassword": "Kennwort bestätigen",
-        "birthDate": "Geburtsdatum"
+        "birthDate": "Geburtsdatum",
+        "gender": {
+            "title": "Geschlecht",
+            "male": "Männlich",
+            "female": "Weiblich"
+        },
+        "unitSystemType": {
+            "title": "Gerätetyp",
+            "metric": "Metrisch"
+        },
+        "ethnicity": {
+            "title": "Ethnizität",
+            "unspecified": "Nicht spezifiziert",
+            "hispanic": "Spanisch/Latino",
+            "native": "Indianer oder Ureinwohner Alaskas",
+            "africanAmerican": "Schwarzer oder Afroamerikaner",
+            "island": "Einheimischer Hawaiianer oder anderer pazifischer Insulaner",
+            "caucasian": "kaukasisch"
+        },
+        "month": {
+            "title": "Monat",
+            "january": "Januar",
+            "february": "Februar",
+            "march": "März",
+            "april": "April",
+            "may": "Kann",
+            "june": "Juni",
+            "july": "Juli",
+            "august": "August",
+            "september": "September",
+            "october": "Oktober",
+            "november": "November",
+            "december": "Dezember"
+        }
     },
     "signUpErrors": {
         "firstName": "Vorname (erforderlich",
@@ -284,5 +317,24 @@
         "fail": "Gescheitert!",
         "checking": "Überprüfung...",
         "success": "Erfolg!"
+    },
+    "terms": {
+        "accepted": "Ich habe Fit3Ds gelesen und akzeptiert"
+    },
+    "redirect": {
+        "home": "Nach Hause zurückkehren",
+        "login": "Zurück zur Anmeldung",
+        "signup": "Zurück zur Anmeldung"
+    },
+    "updater": {
+        "title": "Update verfügbar",
+        "subtitle": "Für die Fit3D ProScanner App ist eine neue Version verfügbar. Möchten sie updaten?",
+        "updateBtn": "Jetzt aktualisieren",
+        "cancelBtn": "Später aktualisieren"
+    },
+    "appQuit": {
+        "closeBtn": "Schließen",
+        "title": "Möchten Sie die App schließen?",
+        "confirmBtn": "App schließen"
     }
 }

@@ -140,7 +140,40 @@
         "confirmRealEmail": "Bekräfta e-postadress",
         "password": "Lösenord (8+ tecken)",
         "confirmPassword": "Bekräfta lösenord",
-        "birthDate": "Födelsedatum"
+        "birthDate": "Födelsedatum",
+        "gender": {
+            "title": "Kön",
+            "male": "Manlig",
+            "female": "Kvinna"
+        },
+        "unitSystemType": {
+            "title": "Enhetstyp",
+            "metric": "Metrisk"
+        },
+        "ethnicity": {
+            "title": "Etnicitet",
+            "unspecified": "Ospecificerad",
+            "hispanic": "Spansktalande / Latino",
+            "native": "Amerikansk indian eller alaska infödd",
+            "africanAmerican": "Svart eller afroamerikansk",
+            "island": "Native Hawaiian eller andra Stillahavsöbor",
+            "caucasian": "Kaukasiska"
+        },
+        "month": {
+            "title": "Månad",
+            "january": "Januari",
+            "february": "Februari",
+            "march": "Mars",
+            "april": "April",
+            "may": "Maj",
+            "june": "Juni",
+            "july": "Juli",
+            "august": "Augusti",
+            "september": "September",
+            "october": "Oktober",
+            "november": "November",
+            "december": "December"
+        }
     },
     "signUpErrors": {
         "firstName": "Förnamn krävs",
@@ -284,5 +317,24 @@
         "fail": "Misslyckades!",
         "checking": "Kontroll...",
         "success": "Framgång!"
+    },
+    "terms": {
+        "accepted": "Jag har läst och accepterat Fit3D"
+    },
+    "redirect": {
+        "home": "Återvända hem",
+        "login": "Tillbaka till login",
+        "signup": "Tillbaka till Registrering"
+    },
+    "updater": {
+        "title": "Uppdatering tillgänglig",
+        "subtitle": "En ny version finns tillgänglig för Fit3D ProScanner-appen. Vill du uppdatera?",
+        "updateBtn": "Uppdatera nu",
+        "cancelBtn": "Uppdatera senare"
+    },
+    "appQuit": {
+        "closeBtn": "Stänga",
+        "title": "Vill du stänga appen?",
+        "confirmBtn": "Stäng appen"
     }
 }

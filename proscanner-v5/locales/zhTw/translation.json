@@ -140,7 +140,40 @@
         "confirmRealEmail": "確認郵件",
         "password": "密碼（8 個以上字符）",
         "confirmPassword": "確認密碼",
-        "birthDate": "出生日期"
+        "birthDate": "出生日期",
+        "gender": {
+            "title": "性別",
+            "male": "男性",
+            "female": "女性"
+        },
+        "unitSystemType": {
+            "title": "單位類型",
+            "metric": "公制"
+        },
+        "ethnicity": {
+            "title": "種族",
+            "unspecified": "未指定",
+            "hispanic": "西班牙裔/拉丁裔",
+            "native": "美洲印第安人或阿拉斯加原住民",
+            "africanAmerican": "黑人或非裔美國人",
+            "island": "夏威夷原住民或其他太平洋島民",
+            "caucasian": "白種人"
+        },
+        "month": {
+            "title": "月",
+            "january": "一月",
+            "february": "二月",
+            "march": "行進",
+            "april": "四月",
+            "may": "可能",
+            "june": "六月",
+            "july": "七月",
+            "august": "八月",
+            "september": "九月",
+            "october": "十月",
+            "november": "十一月",
+            "december": "十二月"
+        }
     },
     "signUpErrors": {
         "firstName": "需要名字",
@@ -284,5 +317,24 @@
         "fail": "失敗的！",
         "checking": "檢查...",
         "success": "成功！"
+    },
+    "terms": {
+        "accepted": "我已閱讀並接受 Fit3D 的"
+    },
+    "redirect": {
+        "home": "回家",
+        "login": "回到登入",
+        "signup": "返回註冊"
+    },
+    "updater": {
+        "title": "更新可用",
+        "subtitle": "Fit3D ProScanner 應用程序有一個新版本可用。你想更新嗎？",
+        "updateBtn": "現在更新",
+        "cancelBtn": "稍後更新"
+    },
+    "appQuit": {
+        "closeBtn": "關閉",
+        "title": "您想關閉應用程序嗎？",
+        "confirmBtn": "關閉應用"
     }
 }

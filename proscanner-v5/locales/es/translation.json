@@ -140,7 +140,40 @@
         "confirmRealEmail": "Confirmar correo electrónico",
         "password": "Contraseña (8+ caracteres)",
         "confirmPassword": "Confirmar Contraseña",
-        "birthDate": "Fecha de nacimiento"
+        "birthDate": "Fecha de nacimiento",
+        "gender": {
+            "title": "Género",
+            "male": "Masculino",
+            "female": "Mujer"
+        },
+        "unitSystemType": {
+            "title": "Tipo de unidad",
+            "metric": "Métrico"
+        },
+        "ethnicity": {
+            "title": "Etnicidad",
+            "unspecified": "Sin especificar",
+            "hispanic": "Hispano / latino",
+            "native": "Indio americano o nativo de Alaska",
+            "africanAmerican": "Negro o afroamericano",
+            "island": "Nativo de Hawai u otra isla del Pacífico",
+            "caucasian": "caucásico"
+        },
+        "month": {
+            "title": "Mes",
+            "january": "enero",
+            "february": "febrero",
+            "march": "marcha",
+            "april": "abril",
+            "may": "Mayo",
+            "june": "junio",
+            "july": "mes de julio",
+            "august": "agosto",
+            "september": "septiembre",
+            "october": "octubre",
+            "november": "noviembre",
+            "december": "diciembre"
+        }
     },
     "signUpErrors": {
         "firstName": "Primer nombre (requerido",
@@ -284,5 +317,24 @@
         "fail": "¡Ha fallado!",
         "checking": "Comprobación...",
         "success": "¡Éxito!"
+    },
+    "terms": {
+        "accepted": "He leído y acepto los Fit3D's"
+    },
+    "redirect": {
+        "home": "Volver a casa",
+        "login": "Atrás para iniciar sesión",
+        "signup": "Volver a Registrarse"
+    },
+    "updater": {
+        "title": "Actualización disponible",
+        "subtitle": "Hay una nueva versión disponible para la aplicación Fit3D ProScanner. ¿Te gustaría actualizar?",
+        "updateBtn": "Actualizar ahora",
+        "cancelBtn": "Actualizar más tarde"
+    },
+    "appQuit": {
+        "closeBtn": "Cerca",
+        "title": "¿Le gustaría cerrar la aplicación?",
+        "confirmBtn": "Cerrar app"
     }
 }

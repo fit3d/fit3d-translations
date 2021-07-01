@@ -140,7 +140,40 @@
         "confirmRealEmail": "E-postanızı Onaylayın",
         "password": "Şifre (8+ karakter)",
         "confirmPassword": "Şifreyi Onayla",
-        "birthDate": "Doğum tarihi"
+        "birthDate": "Doğum tarihi",
+        "gender": {
+            "title": "Cinsiyet",
+            "male": "Erkek",
+            "female": "Kadın"
+        },
+        "unitSystemType": {
+            "title": "Birim tipi",
+            "metric": "Metrik"
+        },
+        "ethnicity": {
+            "title": "Etnik köken",
+            "unspecified": "Belirtilmemiş",
+            "hispanic": "Hispanik/Latin",
+            "native": "Amerikan Yerlisi veya Alaska Yerlisi",
+            "africanAmerican": "Siyah veya Afrikalı Amerikalı",
+            "island": "Yerli Hawai veya Diğer Pasifik Adalı",
+            "caucasian": "Kafkas"
+        },
+        "month": {
+            "title": "Ay",
+            "january": "Ocak",
+            "february": "Şubat",
+            "march": "Mart",
+            "april": "Nisan",
+            "may": "Mayıs",
+            "june": "Haziran",
+            "july": "Temmuz",
+            "august": "Ağustos",
+            "september": "Eylül",
+            "october": "Ekim",
+            "november": "Kasım",
+            "december": "Aralık"
+        }
     },
     "signUpErrors": {
         "firstName": "Ad gerekli",
@@ -284,5 +317,24 @@
         "fail": "Başarısız oldu!",
         "checking": "Kontrol etme...",
         "success": "Başarı!"
+    },
+    "terms": {
+        "accepted": "Fit3D'leri okudum ve kabul ettim"
+    },
+    "redirect": {
+        "home": "Eve dön",
+        "login": "Girişe Geri Dön",
+        "signup": "Kaydolmaya Geri Dön"
+    },
+    "updater": {
+        "title": "Güncelleme uygun",
+        "subtitle": "Fit3D ProScanner uygulaması için yeni bir sürüm mevcut. Güncellemek ister misin?",
+        "updateBtn": "Şimdi güncelle",
+        "cancelBtn": "Sonra güncelle"
+    },
+    "appQuit": {
+        "closeBtn": "Kapat",
+        "title": "Uygulamayı kapatmak ister misiniz?",
+        "confirmBtn": "Uygulamayı Kapat"
     }
 }
