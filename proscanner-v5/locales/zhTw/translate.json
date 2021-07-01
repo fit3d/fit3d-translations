@@ -157,7 +157,8 @@
             "native": "美洲印第安人或阿拉斯加原住民",
             "africanAmerican": "黑人或非裔美國人",
             "island": "夏威夷原住民或其他太平洋島民",
-            "caucasian": "白種人"
+            "caucasian": "白種人",
+            "asian": "亞洲人"
         },
         "month": {
             "title": "月",
@@ -194,7 +195,8 @@
         "year": "年份為必填項",
         "terms": "- 請接受條款協議以繼續",
         "privacy": "- 請接受 Fit3D 的隱私政策以繼續",
-        "waiver": "- 請閱讀並接受免責聲明以繼續"
+        "waiver": "- 請閱讀並接受免責聲明以繼續",
+        "ethnicity": "種族是必需的"
     },
     "overview": {
         "hairTitle": "請把頭髮豎起來",
@@ -258,7 +260,10 @@
         "noAvailableCoaches": "沒有可用的教練。",
         "accessDesc": "您過去曾讓這些教練訪問您的圖像。要刪除他們的訪問權限，請使用網絡平台。",
         "addCoachesBtn": "添加教練",
-        "error": "未能授予教練訪問權限。請聯繫支持人員或重試。"
+        "error": "未能授予教練訪問權限。請聯繫支持人員或重試。",
+        "successTitle": "成功為教練添加訪問權限！",
+        "successSubtitle": "您現在可以訪問的教練：",
+        "fail": "未能授予教練訪問權限。請聯繫支持人員或重試。"
     },
     "scanComplete": {
         "title": "掃描完成",

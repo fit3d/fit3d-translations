@@ -157,7 +157,8 @@
             "native": "Amerikan Yerlisi veya Alaska Yerlisi",
             "africanAmerican": "Siyah veya Afrikalı Amerikalı",
             "island": "Yerli Hawai veya Diğer Pasifik Adalı",
-            "caucasian": "Kafkas"
+            "caucasian": "Kafkas",
+            "asian": "Asya"
         },
         "month": {
             "title": "Ay",
@@ -194,7 +195,8 @@
         "year": "Yıl gerekli",
         "terms": "- Devam etmek için lütfen Şartlar Sözleşmesini kabul edin",
         "privacy": "- Devam etmek için lütfen Fit3D'nin gizlilik politikasını kabul edin",
-        "waiver": "- Devam etmek için lütfen Sorumluluk Feragatı'nı okuyun ve kabul edin"
+        "waiver": "- Devam etmek için lütfen Sorumluluk Feragatı'nı okuyun ve kabul edin",
+        "ethnicity": "etnik köken gerekli"
     },
     "overview": {
         "hairTitle": "lütfen saçını uzat",
@@ -258,7 +260,10 @@
         "noAvailableCoaches": "Uygun antrenör yok.",
         "accessDesc": "Geçmişte bu koçlara resimlerinize erişim izni verdiniz. Erişimlerini kaldırmak için lütfen web platformunu kullanın.",
         "addCoachesBtn": "Koç Ekle",
-        "error": "Antrenörlere erişim verilemedi. Lütfen desteğe başvurun veya tekrar deneyin."
+        "error": "Antrenörlere erişim verilemedi. Lütfen desteğe başvurun veya tekrar deneyin.",
+        "successTitle": "Başarılı Koçlar için Erişim Ekleyin!",
+        "successSubtitle": "Artık erişimi olan koçlarınız:",
+        "fail": "Antrenörlere erişim verilemedi. Lütfen desteğe başvurun veya tekrar deneyin."
     },
     "scanComplete": {
         "title": "Tarama Tamamlandı",

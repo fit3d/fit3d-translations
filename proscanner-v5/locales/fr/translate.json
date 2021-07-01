@@ -157,7 +157,8 @@
             "native": "Indien d'Amérique ou natif de l'Alaska",
             "africanAmerican": "Noir ou afro-américain",
             "island": "Natif hawaïen ou autre insulaire du Pacifique",
-            "caucasian": "caucasien"
+            "caucasian": "caucasien",
+            "asian": "asiatique"
         },
         "month": {
             "title": "Mois",
@@ -194,7 +195,8 @@
         "year": "L'année est requise",
         "terms": "- Veuillez accepter les conditions d'utilisation pour continuer",
         "privacy": "- Veuillez accepter la politique de confidentialité de Fit3D pour continuer",
-        "waiver": "- Veuillez lire et accepter l'exonération de responsabilité pour continuer"
+        "waiver": "- Veuillez lire et accepter l'exonération de responsabilité pour continuer",
+        "ethnicity": "L'ethnicité est requise"
     },
     "overview": {
         "hairTitle": "S'il vous plaît mettre les cheveux",
@@ -258,7 +260,10 @@
         "noAvailableCoaches": "Aucun entraîneur disponible.",
         "accessDesc": "Vous avez donné à ces coachs l'accès à vos images dans le passé. Pour supprimer leur accès, veuillez utiliser la plateforme web.",
         "addCoachesBtn": "Ajouter des entraîneurs",
-        "error": "Échec de l'octroi de l'accès aux entraîneurs. Veuillez contacter l'assistance ou réessayer."
+        "error": "Échec de l'octroi de l'accès aux entraîneurs. Veuillez contacter l'assistance ou réessayer.",
+        "successTitle": "Ajoutez un accès pour les entraîneurs réussi !",
+        "successSubtitle": "Vos coachs qui ont désormais accès :",
+        "fail": "Échec de l'octroi de l'accès aux entraîneurs. Veuillez contacter l'assistance ou réessayer."
     },
     "scanComplete": {
         "title": "Analyse terminée",

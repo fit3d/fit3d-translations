@@ -157,7 +157,8 @@
             "native": "Índio americano ou nativo do Alasca",
             "africanAmerican": "Negro ou afro-americano",
             "island": "Havaiano nativo ou outro habitante das ilhas do Pacífico",
-            "caucasian": "caucasiano"
+            "caucasian": "caucasiano",
+            "asian": "Asiáticos"
         },
         "month": {
             "title": "Mês",
@@ -194,7 +195,8 @@
         "year": "O ano é obrigatório",
         "terms": "- Aceite o Acordo de Termos para continuar",
         "privacy": "- Aceite a política de privacidade da Fit3D para continuar",
-        "waiver": "- Leia e aceite a Isenção de Responsabilidade para continuar"
+        "waiver": "- Leia e aceite a Isenção de Responsabilidade para continuar",
+        "ethnicity": "Etnia é necessária"
     },
     "overview": {
         "hairTitle": "Por favor prenda o cabelo",
@@ -258,7 +260,10 @@
         "noAvailableCoaches": "Nenhum treinador disponível.",
         "accessDesc": "Você concedeu a esses treinadores acesso às suas imagens no passado. Para remover o acesso, por favor, use a plataforma web.",
         "addCoachesBtn": "Adicionar treinadores",
-        "error": "Falha ao fornecer acesso aos treinadores. Entre em contato com o suporte ou tente novamente."
+        "error": "Falha ao fornecer acesso aos treinadores. Entre em contato com o suporte ou tente novamente.",
+        "successTitle": "Adicionar acesso para treinadores de sucesso!",
+        "successSubtitle": "Seus treinadores que agora têm acesso:",
+        "fail": "Falha ao fornecer acesso aos treinadores. Entre em contato com o suporte ou tente novamente."
     },
     "scanComplete": {
         "title": "Escaneamento Completo",

@@ -157,7 +157,8 @@
             "native": "Amerikansk indian eller alaska infödd",
             "africanAmerican": "Svart eller afroamerikansk",
             "island": "Native Hawaiian eller andra Stillahavsöbor",
-            "caucasian": "Kaukasiska"
+            "caucasian": "Kaukasiska",
+            "asian": "Asiatiskt"
         },
         "month": {
             "title": "Månad",
@@ -194,7 +195,8 @@
         "year": "År krävs",
         "terms": "- Acceptera villkoren för att fortsätta",
         "privacy": "- Godkänn Fit3Ds sekretesspolicy för att fortsätta",
-        "waiver": "- Vänligen läs och acceptera ansvarsfrågan för att fortsätta"
+        "waiver": "- Vänligen läs och acceptera ansvarsfrågan för att fortsätta",
+        "ethnicity": "Etnicitet krävs"
     },
     "overview": {
         "hairTitle": "Snälla sätt upp håret",
@@ -258,7 +260,10 @@
         "noAvailableCoaches": "Inga tillgängliga bussar.",
         "accessDesc": "Du har tidigare gett dessa bussar tillgång till dina bilder. För att ta bort deras åtkomst, använd webbplattformen.",
         "addCoachesBtn": "Lägg till tränare",
-        "error": "Det gick inte att ge bussar tillgång. Kontakta supporten eller försök igen."
+        "error": "Det gick inte att ge bussar tillgång. Kontakta supporten eller försök igen.",
+        "successTitle": "Lägg till åtkomst för tränare lyckades!",
+        "successSubtitle": "Dina tränare som nu har tillgång:",
+        "fail": "Det gick inte att ge bussar tillgång. Kontakta supporten eller försök igen."
     },
     "scanComplete": {
         "title": "Skanning slutförd",

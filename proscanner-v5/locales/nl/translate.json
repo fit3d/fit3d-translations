@@ -157,7 +157,8 @@
             "native": "American Indian of Alaska Native",
             "africanAmerican": "Zwart of Afro-Amerikaans",
             "island": "Inheemse Hawaiiaanse of andere Pacifische eilandbewoner",
-            "caucasian": "Kaukasisch"
+            "caucasian": "Kaukasisch",
+            "asian": "Aziatisch"
         },
         "month": {
             "title": "Maand",
@@ -194,7 +195,8 @@
         "year": "Jaar is verplicht",
         "terms": "- Accepteer de voorwaardenovereenkomst om door te gaan Terms",
         "privacy": "- Accepteer het privacybeleid van Fit3D om door te gaan",
-        "waiver": "- Lees en accepteer de aansprakelijkheidsverklaring om door te gaan"
+        "waiver": "- Lees en accepteer de aansprakelijkheidsverklaring om door te gaan",
+        "ethnicity": "Etniciteit is vereist"
     },
     "overview": {
         "hairTitle": "Doe alsjeblieft je haar op put",
@@ -258,7 +260,10 @@
         "noAvailableCoaches": "Geen beschikbare coaches.",
         "accessDesc": "Je hebt deze coaches in het verleden toegang gegeven tot je afbeeldingen. Gebruik het webplatform om hun toegang te verwijderen.",
         "addCoachesBtn": "Coaches toevoegen",
-        "error": "Kan coaches geen toegang geven. Neem contact op met de ondersteuning of probeer het opnieuw."
+        "error": "Kan coaches geen toegang geven. Neem contact op met de ondersteuning of probeer het opnieuw.",
+        "successTitle": "Toegang voor coaches toevoegen Succesvol!",
+        "successSubtitle": "Uw coaches die nu toegang hebben:",
+        "fail": "Kan coaches geen toegang geven. Neem contact op met de ondersteuning of probeer het opnieuw."
     },
     "scanComplete": {
         "title": "Scan voltooid",

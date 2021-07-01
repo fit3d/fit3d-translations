@@ -157,7 +157,8 @@
             "native": "Rodilý Američan nebo Aljaška",
             "africanAmerican": "Černý nebo africký Američan",
             "island": "Nativní havajský nebo jiný pacifický ostrovan",
-            "caucasian": "kavkazský"
+            "caucasian": "kavkazský",
+            "asian": "asijský"
         },
         "month": {
             "title": "Měsíc",
@@ -194,7 +195,8 @@
         "year": "Rok je povinný",
         "terms": "- Chcete-li pokračovat, přijměte prosím smlouvu o podmínkách",
         "privacy": "- Chcete-li pokračovat, přijměte zásady ochrany osobních údajů společnosti Fit3D",
-        "waiver": "- Chcete-li pokračovat, přečtěte si a přijměte Zřeknutí se odpovědnosti"
+        "waiver": "- Chcete-li pokračovat, přečtěte si a přijměte Zřeknutí se odpovědnosti",
+        "ethnicity": "Je požadována etnická příslušnost"
     },
     "overview": {
         "hairTitle": "Prosím, dejte si vlasy nahoru",
@@ -258,7 +260,10 @@
         "noAvailableCoaches": "Nejsou k dispozici žádní trenéři.",
         "accessDesc": "Těmto trenérům jste v minulosti poskytli přístup k vašim obrázkům. Chcete-li jim odebrat přístup, použijte webovou platformu.",
         "addCoachesBtn": "Přidat autobusy",
-        "error": "Nepodařilo se poskytnout trenérům přístup. Kontaktujte podporu nebo to zkuste znovu."
+        "error": "Nepodařilo se poskytnout trenérům přístup. Kontaktujte podporu nebo to zkuste znovu.",
+        "successTitle": "Přidejte přístup pro autobusy úspěšně!",
+        "successSubtitle": "Vaši trenéři, kteří nyní mají přístup:",
+        "fail": "Nepodařilo se poskytnout trenérům přístup. Kontaktujte podporu nebo to zkuste znovu."
     },
     "scanComplete": {
         "title": "Skenování dokončeno",

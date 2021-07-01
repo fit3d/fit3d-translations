@@ -157,7 +157,8 @@
             "native": "Amerikan intialainen tai Alaskan syntyperäinen",
             "africanAmerican": "Musta tai afrikkalainen amerikkalainen",
             "island": "Alkuperäinen havaijilainen tai muu Tyynenmeren saaristo",
-            "caucasian": "Valkoihoinen"
+            "caucasian": "Valkoihoinen",
+            "asian": "aasialainen"
         },
         "month": {
             "title": "Kuukausi",
@@ -194,7 +195,8 @@
         "year": "Vuosi vaaditaan",
         "terms": "- Jatka hyväksymällä ehtosopimus",
         "privacy": "- Jatka hyväksymällä Fit3D: n tietosuojakäytäntö",
-        "waiver": "- Jatka lukemalla vastuuvapauslauseke ja hyväksymällä se"
+        "waiver": "- Jatka lukemalla vastuuvapauslauseke ja hyväksymällä se",
+        "ethnicity": "Etnisyys vaaditaan"
     },
     "overview": {
         "hairTitle": "Ole hyvä ja laita hiukset ylös",
@@ -258,7 +260,10 @@
         "noAvailableCoaches": "Ei saatavilla olevia valmentajia.",
         "accessDesc": "Olet aiemmin antanut näille valmentajille pääsyn kuviisi. Poista heidän käyttöoikeutensa käyttämällä verkkoalustaa.",
         "addCoachesBtn": "Lisää valmentajia",
-        "error": "Valmentajille ei annettu käyttöoikeuksia. Ota yhteyttä tukeen tai yritä uudelleen."
+        "error": "Valmentajille ei annettu käyttöoikeuksia. Ota yhteyttä tukeen tai yritä uudelleen.",
+        "successTitle": "Lisää pääsy valmentajille onnistui!",
+        "successSubtitle": "Valmentajat, joilla on nyt pääsy:",
+        "fail": "Valmentajille ei annettu pääsyä. Ota yhteyttä tukeen tai yritä uudelleen."
     },
     "scanComplete": {
         "title": "Skannaus valmis",
