@@ -286,10 +286,10 @@
   },
   "scanComplete": {
     "title": "Escaneo completo",
-    "subtitle": "¡Su escaneo fue capturado < 1 > exitosamente! < / 1 >",
+    "subtitle": "¡Su escaneo fue capturado <1>exitosamente!</1>",
     "instructions": "El resumen de los resultados del análisis le será enviado por correo electrónico en breve. Inicie sesión en la plataforma web para revisar sus resultados detallados.",
     "coachRequestDisabled": "Solicitud de entrenador inhabilitada.",
-    "coachTimer": "Los entrenadores solicitantes solo estarán disponibles durante < 1 > {{timeLeft}} < / 1 > segundos.",
+    "coachTimer": "Los entrenadores solicitantes solo estarán disponibles durante <1>{{timeLeft}}</1> segundos.",
     "caption": "Imagen de ejemplo que se muestra arriba.",
     "ttWarning": "La plataforma giratoria girará cuando se haga clic en el botón Cerrar sesión.",
     "requestCoachBtn": "Solicitar entrenadores"

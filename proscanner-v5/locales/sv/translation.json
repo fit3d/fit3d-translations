@@ -286,10 +286,10 @@
   },
   "scanComplete": {
     "title": "Skanning slutförd",
-    "subtitle": "Din genomsökning lyckades < 1 > < / 1 >",
+    "subtitle": "Din genomsökning lyckades <1></1>",
     "instructions": "Din översiktsresultatsammanfattning kommer att skickas till dig inom kort. Logga in på webbplattformen för att granska dina detaljerade resultat.",
     "coachRequestDisabled": "Coachförfrågan inaktiverad.",
-    "coachTimer": "Begärande bussar är endast tillgängliga under < 1 > {{timeLeft}} < / 1 > sekunder.",
+    "coachTimer": "Begärande bussar är endast tillgängliga under <1>{{timeLeft}}</1> sekunder.",
     "caption": "Exempel på bilden ovan.",
     "ttWarning": "Skivspelaren roterar när du klickar på utloggningsknappen.",
     "requestCoachBtn": "Begär tränare"

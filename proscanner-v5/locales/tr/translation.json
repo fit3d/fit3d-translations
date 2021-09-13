@@ -286,7 +286,7 @@
   },
   "scanComplete": {
     "title": "Tarama Tamamlandı",
-    "subtitle": "Taramanız < 1 > başarıyla alındı! < /1 >",
+    "subtitle": "Taramanız <1>başarıyla alındı!</1>",
     "instructions": "Tarama sonucu özetiniz kısa süre içinde size e-posta ile gönderilecektir. Ayrıntılı sonuçlarınızı incelemek için web platformuna giriş yapın.",
     "coachRequestDisabled": "Koç isteği devre dışı bırakıldı.",
     "coachTimer": "Antrenör istemek yalnızca < 1 > {{timeLeft}} < /1 > saniye boyunca geçerli olacaktır.",

@@ -286,10 +286,10 @@
   },
   "scanComplete": {
     "title": "掃描完成",
-    "subtitle": "您的掃描已成功< 1 > < /1 >",
+    "subtitle": "您的掃描已成功<1></1>",
     "instructions": "您的掃描結果摘要將很快通過電子郵件發送給您。登錄網絡平台查看您的詳細結果。",
     "coachRequestDisabled": "教練請求已禁用。",
-    "coachTimer": "請求教練只會在< 1 > {{timeLeft}} < /1 >秒內可用。",
+    "coachTimer": "請求教練只會在<1>{{timeLeft}}</1>秒內可用。",
     "caption": "示例圖像如上所示。",
     "ttWarning": "單擊註銷按鈕時，轉盤將旋轉。",
     "requestCoachBtn": "請求教練"
