@@ -286,7 +286,7 @@
   },
   "scanComplete": {
     "title": "Escaneamento Completo",
-    "subtitle": "Sua varredura foi capturada <1>sucesso!</1>",
+    "subtitle": "Sua varredura foi capturada <1>sucesso</1>!",
     "instructions": "O resumo do resultado da verificação será enviado a você em breve. Faça login na plataforma da web para revisar seus resultados detalhados.",
     "coachRequestDisabled": "Solicitação de coach desativada.",
     "coachTimer": "Solicitar coaches só estará disponível por <1><0>{{timeLeft}}</0></1> segundos.",

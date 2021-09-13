@@ -286,7 +286,7 @@
   },
   "scanComplete": {
     "title": "Scan abgeschlossen",
-    "subtitle": "Ihr Scan wurde <1>erfolgreich erfasst! </1>",
+    "subtitle": "Ihr Scan wurde <1>erfolgreich erfasst</1>!",
     "instructions": "Ihre Scan-Ergebniszusammenfassung wird Ihnen in Kürze per E-Mail zugesendet. Melden Sie sich bei der Webplattform an, um Ihre detaillierten Ergebnisse zu überprüfen.",
     "coachRequestDisabled": "Traineranfrage deaktiviert.",
     "coachTimer": "Anfordernde Coaches sind nur für <1><0>{{timeLeft}}</0></1> Sekunden verfügbar.",

@@ -286,7 +286,7 @@
   },
   "scanComplete": {
     "title": "Skannaus valmis",
-    "subtitle": "Skannauksesi siepattiin <1>onnistuneesti!</1>",
+    "subtitle": "Skannauksesi siepattiin <1>onnistuneesti</1>!",
     "instructions": "Skannaustuloksesi yhteenveto lähetetään sinulle pian sähköpostitse. Kirjaudu verkkosivustolle tarkistaaksesi yksityiskohtaiset tulokset.",
     "coachRequestDisabled": "Valmentajapyyntö poistettu käytöstä.",
     "coachTimer": "Pyytävät valmentajat ovat käytettävissä vain <1><0>{{timeLeft}}</0></1> sekuntia.",

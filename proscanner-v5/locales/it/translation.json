@@ -286,7 +286,7 @@
   },
   "scanComplete": {
     "title": "Scansione completata",
-    "subtitle": "La tua scansione è stata acquisita <1>con successo!</1>",
+    "subtitle": "La tua scansione è stata acquisita <1>con successo</1>!",
     "instructions": "Il riepilogo dei risultati della scansione ti verrà inviato via email a breve. Accedi alla piattaforma web per rivedere i tuoi risultati dettagliati.",
     "coachRequestDisabled": "Richiesta pullman disabilitata.",
     "coachTimer": "I coach richiedenti saranno disponibili solo per <1><0>{{timeLeft}}</0></1> secondi.",
