@@ -289,7 +289,7 @@
     "subtitle": "스캔이 성공적으로 <1></1>",
     "instructions": "스캔 결과 요약이 곧 이메일로 전송됩니다. 자세한 결과를 검토하려면 웹 플랫폼에 로그인하십시오.",
     "coachRequestDisabled": "코치 요청이 비활성화되었습니다.",
-    "coachTimer": "코치 요청은 <1>{{timeLeft}}</1> 초 동안 만 가능합니다.",
+    "coachTimer": "코치 요청은 <1><0>{{timeLeft}}</0></1> 초 동안 만 가능합니다.",
     "caption": "위에 표시된 예제 이미지.",
     "ttWarning": "로그 아웃 버튼을 클릭하면 턴테이블이 회전합니다.",
     "requestCoachBtn": "코치 요청"

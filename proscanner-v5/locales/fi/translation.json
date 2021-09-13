@@ -289,7 +289,7 @@
     "subtitle": "Skannauksesi siepattiin <1>onnistuneesti!</1>",
     "instructions": "Skannaustuloksesi yhteenveto lähetetään sinulle pian sähköpostitse. Kirjaudu verkkosivustolle tarkistaaksesi yksityiskohtaiset tulokset.",
     "coachRequestDisabled": "Valmentajapyyntö poistettu käytöstä.",
-    "coachTimer": "Pyytävät valmentajat ovat käytettävissä vain <1>{{timeLeft}}</1> sekuntia.",
+    "coachTimer": "Pyytävät valmentajat ovat käytettävissä vain <1><0>{{timeLeft}}</0></1> sekuntia.",
     "caption": "Esimerkkikuva yllä.",
     "ttWarning": "Levysoitin pyörii, kun uloskirjautumispainiketta napsautetaan.",
     "requestCoachBtn": "Pyydä valmentajia"

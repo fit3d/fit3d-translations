@@ -289,7 +289,7 @@
     "subtitle": "Votre scan a été capturé <1>avec succès!</1>",
     "instructions": "Votre résumé des résultats de l'analyse vous sera envoyé par e-mail sous peu. Connectez-vous à la plateforme Web pour consulter vos résultats détaillés.",
     "coachRequestDisabled": "Demande d'entraîneur désactivée.",
-    "coachTimer": "Les coachs demandeurs ne seront disponibles que pendant <1>{{timeLeft}}</1> secondes.",
+    "coachTimer": "Les coachs demandeurs ne seront disponibles que pendant <1><0>{{timeLeft}}</0></1> secondes.",
     "caption": "Exemple d'image ci-dessus.",
     "ttWarning": "Le plateau tournant tournera lorsque vous cliquerez sur le bouton de déconnexion.",
     "requestCoachBtn": "Demander des entraîneurs"

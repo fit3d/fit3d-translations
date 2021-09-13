@@ -289,7 +289,7 @@
     "subtitle": "Váš sken byl úspěšně <1></1>",
     "instructions": "Souhrn výsledků skenování vám bude brzy zaslán e-mailem. Přihlaste se na webovou platformu a zkontrolujte podrobné výsledky.",
     "coachRequestDisabled": "Žádost trenéra deaktivována.",
-    "coachTimer": "Žádající trenéři budou k dispozici pouze <1>{{timeLeft}}</1>s.",
+    "coachTimer": "Žádající trenéři budou k dispozici pouze <1><0>{{timeLeft}}</0></1>s.",
     "caption": "Ukázkový obrázek zobrazený výše.",
     "ttWarning": "Po kliknutí na tlačítko odhlášení se otočný talíř otočí.",
     "requestCoachBtn": "Požádejte o trenéry"
