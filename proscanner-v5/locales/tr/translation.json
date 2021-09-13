@@ -115,7 +115,7 @@
     "returnLoginBtn": "İade Girişi",
     "pinReset": "Şifrenizi unuttuysanız, bir PIN kodu isteyebilirsiniz. PIN kodunuz bir tarama VEYA 24 saat için geçerlidir.",
     "pinConfirmation": "PIN Onayı",
-    "pinConfirmationInstructions": "'Yeni PIN İste'ye tıklamak sizi PIN isteme sayfasına geri götürecektir. Her 24 saatte bir < 1 > < /1 > PIN kodu talep edebilirsiniz.",
+    "pinConfirmationInstructions": "'Yeni PIN İste'ye tıklamak sizi PIN isteme sayfasına geri götürecektir. Her 24 saatte bir <1></1> PIN kodu talep edebilirsiniz.",
     "loginBtn": "Oturum aç",
     "requestNewBtn": "Yeni PIN İste"
   },

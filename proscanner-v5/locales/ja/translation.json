@@ -115,7 +115,7 @@
     "returnLoginBtn": "ログインを返す",
     "pinReset": "パスワードを忘れた場合は、PINコードをリクエストできます。 PINコードは1回のスキャンまたは24時間有効です。",
     "pinConfirmation": "PINの確認",
-    "pinConfirmationInstructions": "[新しいPINのリクエスト]をクリックすると、PINのリクエストページに戻ります。 24時間ごとに< 1 > 1つの< / 1 > PINコードのみをリクエストできます。",
+    "pinConfirmationInstructions": "[新しいPINのリクエスト]をクリックすると、PINのリクエストページに戻ります。 24時間ごとに <1>1つの</1> PINコードのみをリクエストできます。",
     "loginBtn": "ログイン",
     "requestNewBtn": "新しいPINをリクエストする"
   },

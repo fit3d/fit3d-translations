@@ -115,7 +115,7 @@
     "returnLoginBtn": "Terug Inloggen",
     "pinReset": "Als u uw wachtwoord bent vergeten, kunt u een pincode opvragen. Uw pincode is geldig voor één scan OF 24 uur.",
     "pinConfirmation": "PIN-bevestiging",
-    "pinConfirmationInstructions": "Als u op 'Nieuwe pincode aanvragen' klikt, keert u terug naar de pagina voor het aanvragen van een pincode. U kunt slechts om de 24 uur < 1 > één < /1 >",
+    "pinConfirmationInstructions": "Als u op 'Nieuwe pincode aanvragen' klikt, keert u terug naar de pagina voor het aanvragen van een pincode. U kunt slechts om de 24 uur <1>één</1>",
     "loginBtn": "Log in",
     "requestNewBtn": "Nieuwe pincode aanvragen"
   },

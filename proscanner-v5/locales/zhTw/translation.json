@@ -115,7 +115,7 @@
     "returnLoginBtn": "返回登錄",
     "pinReset": "如果您忘記了密碼，您可以申請 PIN 碼。您的 PIN 碼在掃描一次或 24 小時內有效。",
     "pinConfirmation": "密碼確認",
-    "pinConfirmationInstructions": "單擊“請求新 PIN”將帶您返回請求 PIN 頁面。您每 24 小時只能請求< 1 >一個< /1 >",
+    "pinConfirmationInstructions": "單擊“請求新 PIN”將帶您返回請求 PIN 頁面。您每 24 小時只能請求<1>一個</1>",
     "loginBtn": "登錄",
     "requestNewBtn": "請求新的 PIN"
   },

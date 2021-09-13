@@ -115,7 +115,7 @@
     "returnLoginBtn": "Zpět přihlášení",
     "pinReset": "Pokud jste zapomněli heslo, můžete si vyžádat PIN kód. Váš PIN kód je platný pro jedno skenování NEBO 24 hodin.",
     "pinConfirmation": "Potvrzení PIN",
-    "pinConfirmationInstructions": "Kliknutím na „Vyžádat nový PIN“ se vrátíte zpět na stránku s požadavkem na PIN. Můžete požadovat pouze < 1 > jeden < / 1 > PIN kód každých 24 hodin.",
+    "pinConfirmationInstructions": "Kliknutím na „Vyžádat nový PIN“ se vrátíte zpět na stránku s požadavkem na PIN. Můžete požadovat pouze <1>jeden</1> PIN kód každých 24 hodin.",
     "loginBtn": "Přihlásit se",
     "requestNewBtn": "Požádat o nový PIN"
   },

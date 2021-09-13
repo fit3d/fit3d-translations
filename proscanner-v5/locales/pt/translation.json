@@ -115,7 +115,7 @@
     "returnLoginBtn": "Login de retorno",
     "pinReset": "Se você esqueceu sua senha, pode solicitar um código PIN. Seu código PIN é válido por uma varredura OU 24 horas.",
     "pinConfirmation": "Confirmação de PIN",
-    "pinConfirmationInstructions": "Clicar em 'Solicitando novo PIN' o levará de volta à página de solicitação do PIN. Você só pode solicitar < 1 > um < / 1 > código PIN a cada 24 horas.",
+    "pinConfirmationInstructions": "Clicar em 'Solicitando novo PIN' o levará de volta à página de solicitação do PIN. Você só pode solicitar <1>um</1> código PIN a cada 24 horas.",
     "loginBtn": "Conecte-se",
     "requestNewBtn": "Solicitar um novo PIN"
   },

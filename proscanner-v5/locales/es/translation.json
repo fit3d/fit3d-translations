@@ -115,7 +115,7 @@
     "returnLoginBtn": "Regresar Iniciar sesión",
     "pinReset": "Si olvidó su contraseña, puede solicitar un código PIN. Su código PIN es válido para un escaneo O 24 horas.",
     "pinConfirmation": "Confirmación de PIN",
-    "pinConfirmationInstructions": "Al hacer clic en \"Solicitar nuevo PIN\", volverá a la página de solicitud de PIN. Solo puede solicitar < 1 > un < / 1 > código PIN cada 24 horas.",
+    "pinConfirmationInstructions": "Al hacer clic en \"Solicitar nuevo PIN\", volverá a la página de solicitud de PIN. Solo puede solicitar <1>un</1> código PIN cada 24 horas.",
     "loginBtn": "Acceso",
     "requestNewBtn": "Solicitar nuevo PIN"
   },

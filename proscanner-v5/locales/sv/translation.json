@@ -115,7 +115,7 @@
     "returnLoginBtn": "Gå tillbaka inloggning",
     "pinReset": "Om du har glömt lösenordet kan du begära en PIN-kod. Din PIN-kod är giltig under en skanning ELLER 24 timmar.",
     "pinConfirmation": "PIN-bekräftelse",
-    "pinConfirmationInstructions": "Om du klickar på \"Begär ny PIN-kod\" kommer du tillbaka till sidan med begäran om PIN-kod. Du kan bara begära < 1 > en < / 1 > PIN-kod var 24: e timme.",
+    "pinConfirmationInstructions": "Om du klickar på \"Begär ny PIN-kod\" kommer du tillbaka till sidan med begäran om PIN-kod. Du kan bara begära <1>en</1> PIN-kod var 24: e timme.",
     "loginBtn": "Logga in",
     "requestNewBtn": "Begär ny PIN-kod"
   },

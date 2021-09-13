@@ -115,7 +115,7 @@
     "returnLoginBtn": "로그인 반환",
     "pinReset": "비밀번호를 잊은 경우 PIN 코드를 요청할 수 있습니다. PIN 코드는 1 회 스캔 또는 24 시간 동안 유효합니다.",
     "pinConfirmation": "PIN 확인",
-    "pinConfirmationInstructions": "'새 PIN 요청'을 클릭하면 PIN 요청 페이지로 돌아갑니다. 24 시간마다 < 1 > 하나의 < / 1 > PIN 코드 만 요청할 수 있습니다.",
+    "pinConfirmationInstructions": "'새 PIN 요청'을 클릭하면 PIN 요청 페이지로 돌아갑니다. 24 시간마다 <1>하나의</1> PIN 코드 만 요청할 수 있습니다.",
     "loginBtn": "로그인",
     "requestNewBtn": "새 PIN 요청"
   },

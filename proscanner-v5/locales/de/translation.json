@@ -115,7 +115,7 @@
     "returnLoginBtn": "Zurück Login",
     "pinReset": "Wenn Sie Ihr Passwort vergessen haben, können Sie einen PIN-Code anfordern. Ihr PIN-Code ist für einen Scan ODER 24 Stunden gültig.",
     "pinConfirmation": "PIN-Bestätigung",
-    "pinConfirmationInstructions": "Wenn Sie auf „Neue PIN anfordern“ klicken, gelangen Sie zurück zur Seite „PIN anfordern“. Sie können nur alle 24 Stunden < 1 > einen < /1 >",
+    "pinConfirmationInstructions": "Wenn Sie auf „Neue PIN anfordern“ klicken, gelangen Sie zurück zur Seite „PIN anfordern“. Sie können nur alle 24 Stunden <1>einen</1>",
     "loginBtn": "Anmeldung",
     "requestNewBtn": "Neue PIN anfordern"
   },

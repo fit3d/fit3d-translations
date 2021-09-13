@@ -115,7 +115,7 @@
     "returnLoginBtn": "Retour Connexion",
     "pinReset": "Si vous avez oublié votre mot de passe, vous pouvez demander un code PIN. Votre code PIN est valable pour un scan OU 24 heures.",
     "pinConfirmation": "Confirmation du code PIN",
-    "pinConfirmationInstructions": "En cliquant sur \"Demander un nouveau code PIN\", vous reviendrez à la page de demande de code PIN. Vous ne pouvez demander que < 1 > un < /1 > code PIN toutes les 24 heures.",
+    "pinConfirmationInstructions": "En cliquant sur \"Demander un nouveau code PIN\", vous reviendrez à la page de demande de code PIN. Vous ne pouvez demander que <1>un</1> code PIN toutes les 24 heures.",
     "loginBtn": "Connexion",
     "requestNewBtn": "Demander un nouveau code PIN"
   },

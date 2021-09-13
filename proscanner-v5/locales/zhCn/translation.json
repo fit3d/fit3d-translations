@@ -115,7 +115,7 @@
     "returnLoginBtn": "返回登录",
     "pinReset": "如果您忘记了密码，您可以申请 PIN 码。您的 PIN 码在扫描一次或 24 小时内有效。",
     "pinConfirmation": "密码确认",
-    "pinConfirmationInstructions": "单击“请求新 PIN”将带您返回请求 PIN 页面。您每 24 小时只能请求< 1 >一个< /1 >",
+    "pinConfirmationInstructions": "单击“请求新 PIN”将带您返回请求 PIN 页面。您每 24 小时只能请求<1>一个</1>",
     "loginBtn": "登录",
     "requestNewBtn": "请求新的 PIN"
   },

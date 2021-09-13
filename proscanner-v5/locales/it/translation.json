@@ -115,7 +115,7 @@
     "returnLoginBtn": "Restituisci il login",
     "pinReset": "Se hai dimenticato la password, puoi richiedere un codice PIN. Il tuo codice PIN è valido per una scansione OPPURE 24 ore.",
     "pinConfirmation": "Conferma PIN",
-    "pinConfirmationInstructions": "Facendo clic su \"Richiesta nuovo PIN\" si tornerà alla pagina di richiesta PIN. Puoi richiedere solo < 1 > un < /1 > codice PIN ogni 24 ore.",
+    "pinConfirmationInstructions": "Facendo clic su \"Richiesta nuovo PIN\" si tornerà alla pagina di richiesta PIN. Puoi richiedere solo <1>un</1> codice PIN ogni 24 ore.",
     "loginBtn": "Login",
     "requestNewBtn": "Richiedi nuovo PIN"
   },
