@@ -115,7 +115,7 @@
     "returnLoginBtn": "返回登录",
     "pinReset": "如果您忘记了密码，您可以申请 PIN 码。您的 PIN 码在扫描一次或 24 小时内有效。",
     "pinConfirmation": "密码确认",
-    "pinConfirmationInstructions": "单击“请求新 PIN”将带您返回请求 PIN 页面。您每 24 小时只能请求< 1 >一个< /1 >",
+    "pinConfirmationInstructions": "单击“请求新 PIN”将带您返回请求 PIN 页面。您每 24 小时只能请求<1>一个</1>",
     "loginBtn": "登录",
     "requestNewBtn": "请求新的 PIN"
   },
@@ -286,10 +286,10 @@
   },
   "scanComplete": {
     "title": "扫描完成",
-    "subtitle": "您的扫描已成功< 1 > < /1 >",
+    "subtitle": "您的扫描已成功<1></1>",
     "instructions": "您的扫描结果摘要将很快通过电子邮件发送给您。登录网络平台查看您的详细结果。",
     "coachRequestDisabled": "教练请求已禁用。",
-    "coachTimer": "请求教练只会在< 1 > {{timeLeft}} < /1 >秒内可用。",
+    "coachTimer": "请求教练只会在<1><0>{{timeLeft}}</0></1>秒内可用。",
     "caption": "示例图像如上所示。",
     "ttWarning": "单击注销按钮时，转盘将旋转。",
     "requestCoachBtn": "请求教练"

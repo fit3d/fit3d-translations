@@ -115,7 +115,7 @@
     "returnLoginBtn": "Palaa sisäänkirjautumiseen",
     "pinReset": "Jos unohdit salasanasi, voit pyytää PIN-koodin. PIN-koodisi on voimassa yhden tarkistuksen TAI 24 tuntia.",
     "pinConfirmation": "PIN-koodin vahvistus",
-    "pinConfirmationInstructions": "Napsauttamalla Uuden PIN-koodin pyytäminen vie sinut takaisin PIN-pyyntösivulle. Voit pyytää vain < 1 > yhtä < / 1 > PIN-koodia 24 tunnin välein.",
+    "pinConfirmationInstructions": "Napsauttamalla Uuden PIN-koodin pyytäminen vie sinut takaisin PIN-pyyntösivulle. Voit pyytää vain <1>yhtä</1> PIN-koodia 24 tunnin välein.",
     "loginBtn": "Kirjaudu sisään",
     "requestNewBtn": "Pyydä uusi PIN-koodi"
   },
@@ -286,10 +286,10 @@
   },
   "scanComplete": {
     "title": "Skannaus valmis",
-    "subtitle": "Skannauksesi siepattiin < 1 > onnistuneesti! < / 1 >",
+    "subtitle": "Skannauksesi siepattiin <1>onnistuneesti</1>!",
     "instructions": "Skannaustuloksesi yhteenveto lähetetään sinulle pian sähköpostitse. Kirjaudu verkkosivustolle tarkistaaksesi yksityiskohtaiset tulokset.",
     "coachRequestDisabled": "Valmentajapyyntö poistettu käytöstä.",
-    "coachTimer": "Pyytävät valmentajat ovat käytettävissä vain < 1 > {{timeLeft}} < / 1 > sekuntia.",
+    "coachTimer": "Pyytävät valmentajat ovat käytettävissä vain <1><0>{{timeLeft}}</0></1> sekuntia.",
     "caption": "Esimerkkikuva yllä.",
     "ttWarning": "Levysoitin pyörii, kun uloskirjautumispainiketta napsautetaan.",
     "requestCoachBtn": "Pyydä valmentajia"

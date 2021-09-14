@@ -115,7 +115,7 @@
     "returnLoginBtn": "로그인 반환",
     "pinReset": "비밀번호를 잊은 경우 PIN 코드를 요청할 수 있습니다. PIN 코드는 1 회 스캔 또는 24 시간 동안 유효합니다.",
     "pinConfirmation": "PIN 확인",
-    "pinConfirmationInstructions": "'새 PIN 요청'을 클릭하면 PIN 요청 페이지로 돌아갑니다. 24 시간마다 < 1 > 하나의 < / 1 > PIN 코드 만 요청할 수 있습니다.",
+    "pinConfirmationInstructions": "'새 PIN 요청'을 클릭하면 PIN 요청 페이지로 돌아갑니다. 24 시간마다 <1>하나의</1> PIN 코드 만 요청할 수 있습니다.",
     "loginBtn": "로그인",
     "requestNewBtn": "새 PIN 요청"
   },
@@ -286,10 +286,10 @@
   },
   "scanComplete": {
     "title": "스캔 완료",
-    "subtitle": "스캔이 성공적으로 < 1 > < / 1 >",
+    "subtitle": "스캔이 성공적으로 <1></1>",
     "instructions": "스캔 결과 요약이 곧 이메일로 전송됩니다. 자세한 결과를 검토하려면 웹 플랫폼에 로그인하십시오.",
     "coachRequestDisabled": "코치 요청이 비활성화되었습니다.",
-    "coachTimer": "코치 요청은 < 1 > {{timeLeft}} < / 1 > 초 동안 만 가능합니다.",
+    "coachTimer": "코치 요청은 <1><0>{{timeLeft}}</0></1> 초 동안 만 가능합니다.",
     "caption": "위에 표시된 예제 이미지.",
     "ttWarning": "로그 아웃 버튼을 클릭하면 턴테이블이 회전합니다.",
     "requestCoachBtn": "코치 요청"

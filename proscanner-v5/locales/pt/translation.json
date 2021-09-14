@@ -115,7 +115,7 @@
     "returnLoginBtn": "Login de retorno",
     "pinReset": "Se você esqueceu sua senha, pode solicitar um código PIN. Seu código PIN é válido por uma varredura OU 24 horas.",
     "pinConfirmation": "Confirmação de PIN",
-    "pinConfirmationInstructions": "Clicar em 'Solicitando novo PIN' o levará de volta à página de solicitação do PIN. Você só pode solicitar < 1 > um < / 1 > código PIN a cada 24 horas.",
+    "pinConfirmationInstructions": "Clicar em 'Solicitando novo PIN' o levará de volta à página de solicitação do PIN. Você só pode solicitar <1>um</1> código PIN a cada 24 horas.",
     "loginBtn": "Conecte-se",
     "requestNewBtn": "Solicitar um novo PIN"
   },
@@ -286,10 +286,10 @@
   },
   "scanComplete": {
     "title": "Escaneamento Completo",
-    "subtitle": "Sua varredura foi capturada < 1 > sucesso! < / 1 >",
+    "subtitle": "Sua varredura foi capturada <1>sucesso</1>!",
     "instructions": "O resumo do resultado da verificação será enviado a você em breve. Faça login na plataforma da web para revisar seus resultados detalhados.",
     "coachRequestDisabled": "Solicitação de coach desativada.",
-    "coachTimer": "Solicitar coaches só estará disponível por < 1 > {{timeLeft}} < / 1 > segundos.",
+    "coachTimer": "Solicitar coaches só estará disponível por <1><0>{{timeLeft}}</0></1> segundos.",
     "caption": "Imagem de exemplo mostrada acima.",
     "ttWarning": "A plataforma giratória girará quando o botão de desconexão for clicado.",
     "requestCoachBtn": "Solicitar treinadores"

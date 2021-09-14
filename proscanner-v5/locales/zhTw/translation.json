@@ -115,7 +115,7 @@
     "returnLoginBtn": "返回登錄",
     "pinReset": "如果您忘記了密碼，您可以申請 PIN 碼。您的 PIN 碼在掃描一次或 24 小時內有效。",
     "pinConfirmation": "密碼確認",
-    "pinConfirmationInstructions": "單擊“請求新 PIN”將帶您返回請求 PIN 頁面。您每 24 小時只能請求< 1 >一個< /1 >",
+    "pinConfirmationInstructions": "單擊“請求新 PIN”將帶您返回請求 PIN 頁面。您每 24 小時只能請求<1>一個</1>",
     "loginBtn": "登錄",
     "requestNewBtn": "請求新的 PIN"
   },
@@ -286,10 +286,10 @@
   },
   "scanComplete": {
     "title": "掃描完成",
-    "subtitle": "您的掃描已成功< 1 > < /1 >",
+    "subtitle": "您的掃描已成功<1></1>",
     "instructions": "您的掃描結果摘要將很快通過電子郵件發送給您。登錄網絡平台查看您的詳細結果。",
     "coachRequestDisabled": "教練請求已禁用。",
-    "coachTimer": "請求教練只會在< 1 > {{timeLeft}} < /1 >秒內可用。",
+    "coachTimer": "請求教練只會在<1><0>{{timeLeft}}</0></1>秒內可用。",
     "caption": "示例圖像如上所示。",
     "ttWarning": "單擊註銷按鈕時，轉盤將旋轉。",
     "requestCoachBtn": "請求教練"

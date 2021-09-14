@@ -115,7 +115,7 @@
     "returnLoginBtn": "İade Girişi",
     "pinReset": "Şifrenizi unuttuysanız, bir PIN kodu isteyebilirsiniz. PIN kodunuz bir tarama VEYA 24 saat için geçerlidir.",
     "pinConfirmation": "PIN Onayı",
-    "pinConfirmationInstructions": "'Yeni PIN İste'ye tıklamak sizi PIN isteme sayfasına geri götürecektir. Her 24 saatte bir < 1 > < /1 > PIN kodu talep edebilirsiniz.",
+    "pinConfirmationInstructions": "'Yeni PIN İste'ye tıklamak sizi PIN isteme sayfasına geri götürecektir. Her 24 saatte bir <1></1> PIN kodu talep edebilirsiniz.",
     "loginBtn": "Oturum aç",
     "requestNewBtn": "Yeni PIN İste"
   },
@@ -286,10 +286,10 @@
   },
   "scanComplete": {
     "title": "Tarama Tamamlandı",
-    "subtitle": "Taramanız < 1 > başarıyla alındı! < /1 >",
+    "subtitle": "Taramanız <1>başarıyla alındı</1>!",
     "instructions": "Tarama sonucu özetiniz kısa süre içinde size e-posta ile gönderilecektir. Ayrıntılı sonuçlarınızı incelemek için web platformuna giriş yapın.",
     "coachRequestDisabled": "Koç isteği devre dışı bırakıldı.",
-    "coachTimer": "Antrenör istemek yalnızca < 1 > {{timeLeft}} < /1 > saniye boyunca geçerli olacaktır.",
+    "coachTimer": "Antrenör istemek yalnızca <1><0>{{timeLeft}}</0></1> saniye boyunca geçerli olacaktır.",
     "caption": "Yukarıda gösterilen örnek resim.",
     "ttWarning": "Çıkış düğmesine tıklandığında döner tabla dönecektir.",
     "requestCoachBtn": "Koç Talep Et"

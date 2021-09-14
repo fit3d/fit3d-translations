@@ -115,7 +115,7 @@
     "returnLoginBtn": "ログインを返す",
     "pinReset": "パスワードを忘れた場合は、PINコードをリクエストできます。 PINコードは1回のスキャンまたは24時間有効です。",
     "pinConfirmation": "PINの確認",
-    "pinConfirmationInstructions": "[新しいPINのリクエスト]をクリックすると、PINのリクエストページに戻ります。 24時間ごとに< 1 > 1つの< / 1 > PINコードのみをリクエストできます。",
+    "pinConfirmationInstructions": "[新しいPINのリクエスト]をクリックすると、PINのリクエストページに戻ります。 24時間ごとに <1>1つの</1> PINコードのみをリクエストできます。",
     "loginBtn": "ログイン",
     "requestNewBtn": "新しいPINをリクエストする"
   },
@@ -286,10 +286,10 @@
   },
   "scanComplete": {
     "title": "スキャン完了",
-    "subtitle": "スキャンは正常にキャプチャされました< 1 > < / 1 >",
+    "subtitle": "スキャンは正常にキャプチャされました<1></1>",
     "instructions": "スキャン結果の概要はまもなくメールで送信されます。 Webプラットフォームにログインして、詳細な結果を確認します。",
     "coachRequestDisabled": "コーチリクエストが無効になりました。",
-    "coachTimer": "コーチのリクエストは、 < 1 > {{timeLeft}} < / 1 >秒間のみ利用できます。",
+    "coachTimer": "コーチのリクエストは、<1><0>{{timeLeft}}</0></1> 秒間のみ利用できます。",
     "caption": "上に示した画像の例。",
     "ttWarning": "サインアウトボタンをクリックすると、ターンテーブルが回転します。",
     "requestCoachBtn": "コーチをリクエストする"
