@@ -296,7 +296,7 @@
     "requestCoachBtn": "Request Coaches"
   },
   "errors": {
-    "registration": "Error checking ProScanner registration status. Please verify device is connected to internet and restart the app. If the error persists, please have the ProScanner owner contact our support team using \"Help?\" widget at the bottom right of the screen or by email at support@fit3d.com to resolve.",
+    "registration": "Error checking ProScanner registration status. Please verify device is connected to internet and restart the app. \nIf the error persists, please have the ProScanner owner contact our support team using \"Help?\" widget at the bottom right of the screen or by email at support@fit3d.com to resolve.",
     "scanDesc": "Clicking buttons will cause turntable to spin",
     "retryScanBtn": "Retry Scan",
     "template": "If this error occurs again, please have the ProScanner owner contact our support team using \"Help?\" widget at the bottom right of the screen.",
